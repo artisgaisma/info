@@ -1,0 +1,22 @@
+Solution #1: Restore Deleted Files from USB Drive Using CMD
+1. Connect the USB flash drive to your computer.
+2. Open the Start menu, type "cmd", and hit Enter on your keyboard.
+3. Type "chkdsk X: /f" in the Command Prompt window and hit Enter. Just make sure to replace “X” with the letter assigned to your USB flash drive.recover deleted files from flash drive without software
+4. Finally, type "ATTRIB -H -R -S /S /D X:*.*" and hit the Enter key (Again, replace “X” with the drive letter of the USB drive).recover deleted files from flash drive
+5. Wait for the process to be completed.
+
+Solution #2: Use the Restore Previous Versions Feature
+1. Connect the USB flash drive to your computer.
+2. Open the Start menu, type "This pc", and hit Enter on your keyboard.
+3. Right-click on your USB flash drive and select "Properties".
+4. Go to the "Previous Versions" tab and look at the list of available recovery options.
+5. Select a previous version and click "Restore".
+
+Solution #3: Use a Data Recovery Software 
+Today we will be using the latest version of Disk Drill to recover data. It’s is one of the most popular and well-established data recovery software on the market.
+
+Steps to recover deleted files from a USB flash drive:
+1. Go to the following address and download Disk Drill: https://www.cleverfiles.com/
+2. With your pen drive connected, launch Disk Drill 
+3. Click the "Search for lost data" button next to it.
+4. Select which files you want Disk Drill to recover and click the "Recover" button.

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPreset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Preset>
+    <programmer>usbtiny</programmer>
+    <mcu>m328p</mcu>
+    <port>usb</port>
+    <baud />
+    <bitclock />
+    <flashFile />
+    <flashFormat>a</flashFormat>
+    <flashOp>w</flashOp>
+    <EEPROMFile />
+    <EEPROMFormat>a</EEPROMFormat>
+    <EEPROMOp>w</EEPROMOp>
+    <force>false</force>
+    <disableVerify>false</disableVerify>
+    <disableFlashErase>false</disableFlashErase>
+    <eraseFlashAndEEPROM>false</eraseFlashAndEEPROM>
+    <doNotWrite>false</doNotWrite>
+    <lfuse>0xFF</lfuse>
+    <hfuse>0xDA</hfuse>
+    <efuse>0xFD</efuse>
+    <setFuses>false</setFuses>
+    <lockBits>0xFF</lockBits>
+    <setLock>false</setLock>
+    <additional />
+    <verbosity>0</verbosity>
+    <name>FFT-328P</name>
+  </Preset>
+</ArrayOfPreset>
