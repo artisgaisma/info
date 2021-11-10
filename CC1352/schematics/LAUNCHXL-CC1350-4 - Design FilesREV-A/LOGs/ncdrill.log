@@ -1,0 +1,64 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC1350-433.brd                       )
+(    Software Version : 16.6-2015S068                                 )
+(    Date/Time        : Mon Jan 23 14:14:20 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 2 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence' ...
+
+
+
+     'LAUNCHXL-CC1350-433-1-4.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   8.0000    0.0000/  0.0000      PLATED       1051
+            2.  10.0000    0.0000/  0.0000      PLATED          8
+            3.  16.0000    0.0000/  0.0000      PLATED         21
+            4.  41.0000    0.0000/  0.0000      PLATED         75
+            5.  43.0000    0.0000/  0.0000      PLATED          1
+            6. 126.0000    0.0000/  0.0000      PLATED          2
+            7.  35.0000    0.0000/  0.0000  NON_PLATED          6
+            8.  39.0000    0.0000/  0.0000  NON_PLATED          3
+            9. 126.0000    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                       1171
+
+     ---- Total head travel:              30.85 feet (9.40 meters)
+

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TEST-GPS_RF-REV-C.PcbDoc]
+   Generated File[TEST-GPS_RF-REV-C.TXT]
+   Generated File[TEST-GPS_RF-REV-C.LDP]
+   Generated File[TEST-GPS_RF-REV-C.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:36:14 On 2021.06.14.

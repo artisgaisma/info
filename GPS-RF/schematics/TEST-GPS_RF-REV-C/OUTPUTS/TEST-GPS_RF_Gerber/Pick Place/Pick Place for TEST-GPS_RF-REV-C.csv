@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\ArtisK\Desktop\GIT\TEST-GPS-RF\schematics\TEST-GPS_RF-REV-C\OUTPUTS\TEST-GPS_RF_Gerber\Pick Place\Pick Place for TEST-GPS_RF-REV-C.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14.06.21
+Time:       12:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"ANT2","UFL-simple","TopLayer","UFL","7.2250","2.4750","360","Connector"
+"SRV","3ipn","BottomLayer","HDR1x3_angled","7.3000","15.7000","270","Header 3-Pin, 2.54mm"
+"C6","0.1uF","TopLayer","C0603","27.0000","40.4000","270","C0603_0.1uF_50V"
+"BMP280","± 0.12 hPa equivalent to ±1 m","TopLayer","BMP280","24.6000","40.4000","270","Pressure sensor BMP 280"
+"D1","1N4148","TopLayer","SOD-323","2.9999","44.5000","270","Small signal diode"
+"R4","4k7","TopLayer","0603","24.3000","36.6000","180","SMD resistor"
+"R5","4k7","TopLayer","0603","23.9000","31.2000","180","SMD resistor"
+"Q1","osc 8Mhz CSTCE8M0V53-R0_1","TopLayer","OSC_CSTCE16M0V53-R0","8.4000","22.5000","270","8MHz Ceramic Resonator Built in Cap 15pF ±0.3% -20°C ~ 80°C SMD"
+"SW","","TopLayer","SWITCH_SLIDE","3.0250","22.1000","270","Switch"
+"X1","1.0mm 5pin","TopLayer","JST_5PIN_1MM","3.4000","30.2000","270","Connector 5p hor 1mm"
+"ICSP1","Progr ICSP","BottomLayer","ICSP_prg_PAD_2.54mm","16.5000","11.2000","270","PAD prog"
+"ANT1","UFL-simple","TopLayer","UFL","21.5625","45.8000","180","Connector"
+"L1","33nH 400mA","TopLayer","L0603","19.3000","46.6000","90","Inductor"
+"RF9X","RFM95","TopLayer","RFM9X","16.4000","10.6000","270","RF Transceiver"
+"M2","2.4GHz","TopLayer","MAX-M8Q","13.5500","42.8499","270","GPS module"
+"C1","0.1uF","TopLayer","C0603","8.4000","25.8000","270","C0603_0.1uF_50V"
+"C2","0.1uF","TopLayer","C0603","20.9000","25.7000","90","C0603_0.1uF_50V"
+"C4","0.1uF","TopLayer","C0603","15.9000","36.2000","90","C0603_0.1uF_50V"
+"C5","100uF","TopLayer","C1210","2.9999","40.6000","270","C1210_10uF_250V"
+"C3","1uF","TopLayer","C0603","5.7000","16.1000","270","C0603_1uF_10V"
+"LED","GREEN","TopLayer","LED0603","2.2000","36.1000","90","LED smd chip 0603"
+"3V","3.3v","TopLayer","SOT23-3","2.8000","16.1000","90","LDO 300 mA 3.3V"
+"R1","430R","TopLayer","0603","3.9000","36.1000","270","SMD resistor"
+"R2","22R","TopLayer","0603","11.5500","36.1499","270","SMD resistor"
+"R3","22R","TopLayer","0603","10.0500","36.1499","270","SMD resistor"
+"U1","","TopLayer","32-PIN_QFP_10MM","14.8000","25.3000","360","CPU"
+"BMP180","± 0.12 hPa equivalent to ±1 m","TopLayer","BMP180","24.5000","33.9000","270","Pressure sensor BMP 180"
+"EEPROM","-","TopLayer","TSSOP_-_8","6.2500","42.0500","90","Memory EEPROM"
+"FLASH","-","TopLayer","VSOP8","25.6000","25.2000","360","Memory Flash SPI 64MBit"
+"BUT","B3S-1002","TopLayer","B3S-1002_FFT","4.0000","8.6000","0","Single pole tactile switch, H=4.2mm"

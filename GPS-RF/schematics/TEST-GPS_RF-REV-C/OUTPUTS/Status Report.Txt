@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:36:03 On 2021.06.14.
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [TEST-GPS_RF.PrjPcb]
+   Generated File[TEST-GPS_RF_BOM.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:36:06 On 2021.06.14.

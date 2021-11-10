@@ -1,0 +1,152 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\mcu013_launchxl-cc1310_cc1190_eu.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\MCU013_launchxl-cc1310_cc1190_eu.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File"
+       "allegro\MCU013_LAUNCHXL-CC1310_CC1190.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Netlist Directory" "allegro")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (Sort User)
+    (File ".\mcu013_launchxl-cc1310_cc1190.prp"
+      (Type "Report")
+      (DisplayName "MCU013_LAUNCHXL-CC1310_CC1190.PRP"))
+    (File ".\mcu013_launchxl-cc1310_cc1190_eu.prp"
+      (Type "Report")
+      (DisplayName "MCU013_LAUNCHXL-CC1310_CC1190_EU.PRP")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (PCB
+      (FullPartName "PCB.Normal")
+      (LibraryName "X:\SYMBOLS\PCB.OLB")
+      (DeviceIndex "0"))
+    (TRASH_V1
+      (FullPartName "TRASH_V1.Normal")
+      (LibraryName "X:\SYMBOLS\PCB.OLB")
+      (DeviceIndex "0"))
+    (MECH_SPACERS_SUPPORT_V1
+      (FullPartName "MECH_SPACERS_SUPPORT_V1.Normal")
+      (LibraryName "X:\SYMBOLS\MECHANIC.OLB")
+      (DeviceIndex "0"))
+    (LABEL_Pb-free_V1
+      (FullPartName "LABEL_Pb-free_V1.Normal")
+      (LibraryName "X:\SYMBOLS\PCB.OLB")
+      (DeviceIndex "0"))
+    (CE_LABEL
+      (FullPartName "CE_LABEL.Normal")
+      (LibraryName "X:\SYMBOLS\PCB.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName "X:\SYMBOLS\CAPACITOR.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "X:\SYMBOLS\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (ANTENNA_PCB
+      (FullPartName "ANTENNA_PCB.Normal")
+      (LibraryName "X:\SYMBOLS\MECHANIC.OLB")
+      (DeviceIndex "0"))
+    (FILTER_SAW_RF_B3
+      (FullPartName "FILTER_SAW_RF_B3.Normal")
+      (LibraryName "X:\SYMBOLS\FILTER.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "X:\SYMBOLS\INDUCTOR.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CONN_COAX_1_1_P_2MH
+      (FullPartName "CONN_COAX_1_1_P_2MH.Normal")
+      (LibraryName "X:\SYMBOLS\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CONN_HEADER_2X11_P_S
+      (FullPartName "CONN_HEADER_2X11_P_S.Normal")
+      (LibraryName "X:\SYMBOLS\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CONN_HEADER_3_P_S
+      (FullPartName "CONN_HEADER_3_P_S.Normal")
+      (LibraryName "X:\SYMBOLS\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (ANTENNA
+      (FullPartName "ANTENNA.Normal")
+      (LibraryName "X:\SYMBOLS\MECHANIC.OLB")
+      (DeviceIndex "0"))
+    (IC_RF_CC13XX_7X7_QFN48_V2
+      (FullPartName "IC_RF_CC13XX_7X7_QFN48_V2A.Normal")
+      (LibraryName "X:\SYMBOLS\IC_RF.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\apps\reference_designs\cc1310_cc1190_launchpad\launchpad_cc1310_cc1190_1_3_0\cadence\mcu013_launchxl-cc1310_cc1190_eu.dsn")
+      (Path "Design Resources"
+         "c:\apps\reference_designs\cc1310_cc1190_launchpad\launchpad_cc1310_cc1190_1_3_0\cadence\mcu013_launchxl-cc1310_cc1190_eu.dsn"
+         "CC13-90_LaunchPad")
+      (Path "Design Resources"
+         "c:\apps\reference_designs\cc1310_cc1190_launchpad\launchpad_cc1310_cc1190_1_3_0\cadence\mcu013_launchxl-cc1310_cc1190_eu.dsn"
+         "Design Cache")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\apps\reference_designs\cc1310_cc1190_launchpad\launchpad_cc1310_cc1190_1_3_0\cadence\mcu013_launchxl-cc1310_cc1190_eu.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 986"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 99 1385 84 541")
+        (Scroll "172 1")
+        (Zoom "216")
+        (Occurrence "/"))
+      (Path
+         "C:\APPS\REFERENCE_DESIGNS\CC1310_CC1190_LAUNCHPAD\LAUNCHPAD_CC1310_CC1190_1_3_0\CADENCE\MCU013_LAUNCHXL-CC1310_CC1190_EU.DSN")
+      (Schematic "CC13-90_LaunchPad")
+      (Page "6_PCB_SPEC")))
+  (MPSSessionName "a0190524")
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory
+     "C:\kht\work\CC1310_CC1190_launchpad\LAUNCHPAD_CC1310_CC1190_1_0_0\LAUNCHXL-CC1310_CC1190_1_0_0_Cadence"))

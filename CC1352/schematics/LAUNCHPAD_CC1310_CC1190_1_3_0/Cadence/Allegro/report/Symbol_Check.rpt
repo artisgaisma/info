@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC1310_CC1190.brd                    )
+(    Software Version : 16.6S026                                      )
+(    Date/Time        : Thu Oct 20 15:24:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_16.6/share/local/pcb/symbols
+	C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols
+	x:/Footprints
+	x:/padstacks
+	X:/Layout_graphics/
+
+
+All Symbols Found
+
+Total symbols placed:      173 out of 173
+
+

@@ -1,0 +1,77 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : MCU013_LAUNCHXL-CC1310_CC1190.brd             )
+(    Software Version : 17.2S024                                      )
+(    Date/Time        : Fri Jan 26 15:29:59 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		4.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		YES
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-365): This design contains 2 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+
+
+ Drill files being output to directory 'C:/apps/reference_designs/CC1310_CC1190_launchpad/LAUNCHPAD_CC1310_CC1190_1_3_0/Cadence/Allegro' ...
+
+
+
+     'MCU013_LAUNCHXL-CC1310_CC1190-1-4.drl' created for holes connecting TOP and BOTTOM ; Plating = PLATED
+     ------------------------------------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.2000    0.0000/  0.0000      PLATED        679
+            2.   0.2010    0.0000/  0.0000      PLATED         28
+            3.   1.0500    0.0000/  0.0000      PLATED         75
+            4.   1.1000    0.0000/  0.0000      PLATED          1
+            5.   3.2000    0.0000/  0.0000      PLATED          2
+
+     ---- Total holes:                                        785
+
+     ---- Total head travel:              27.80 feet (8.47 meters)
+
+
+
+
+     'MCU013_LAUNCHXL-CC1310_CC1190-1-4-np.drl' created for holes connecting TOP and BOTTOM ; Plating = NON_PLATED
+     -------------------------------------------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.8990    0.0000/  0.0000  NON_PLATED          6
+            2.   1.0010    0.0000/  0.0000  NON_PLATED          3
+            3.   3.0000    0.0000/  0.0000  NON_PLATED          4
+            4.   3.2000    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                         17
+
+     ---- Total head travel:              2.26 feet (0.69 meters)
+

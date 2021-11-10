@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\ArtisK\Desktop\GIT\TEST-GPS-RF\schematics\TEST-GPS_RF-REV-C\TEST-GPS_RF-REV-C.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_POLY|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

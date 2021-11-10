@@ -1,0 +1,971 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC1350-433.brd                       )
+(    Software Version : 16.6-2015S068                                 )
+(    Date/Time        : Mon Jan 23 14:11:48 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK-TOP >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_PASTEMASK-TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: Null REGULAR-PAD specified for padstack SQ1000 at (8882.0 7563.0).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  SQUARE     0.03500                     0.000 NO     DARK 
+  SQUARE     0.20700                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.06700      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.09800       0.000 NO     DARK 
+  OBLONG     0.00700     x 0.05300       0.000 NO     DARK 
+  OBLONG     0.00700     x 0.05300      90.000 NO     DARK 
+  OBLONG     0.00800     x 0.05900       0.000 NO     DARK 
+  OBLONG     0.00800     x 0.05900      90.000 NO     DARK 
+  OBLONG     0.01100     x 0.02800       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.02800      90.000 NO     DARK 
+  OBLONG     0.01200     x 0.03100       0.000 NO     DARK 
+  OBLONG     0.01200     x 0.03100      90.000 NO     DARK 
+  OBLONG     0.01400     x 0.03200      90.000 NO     DARK 
+  OBLONG     0.01600     x 0.03500      90.000 NO     DARK 
+  OBLONG     0.01900     x 0.07300       0.000 NO     DARK 
+  OBLONG     0.02200     x 0.08100       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_540RECT585            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1485X2250             0.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECT650            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1305RECTX1890         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_270RECT360            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_405RECTX1260          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX450           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1400RECTX1900         0.000 NO     DARK 
+  PAD SHAPE  BULLET_270X720_PM           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECT400            0.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX300           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX1400          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_180RECTX270           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_180RECTX315           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_270RECTX405           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1260          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1260RECTX1710         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1450RECTX2100         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472          45.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525          45.000 NO     DARK 
+  PAD SHAPE  SHAPE_810RECTX1170         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECTX900          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECT1800         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_180RECTX315          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525          90.000 NO     DARK 
+  PAD SHAPE  BULLET_270X720_PM          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1170RECTX4950        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_180RECTX810          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX650          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_675RECT675           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1300RECTX5500        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_855RECT900           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECT1620          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX900          90.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_675RECT810           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1950RECTX6350        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT750           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1350          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT900           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_675RECTX810          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_180RECTX585          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1755RECTX5715        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_4725X4725            90.000 NO     DARK 
+  PAD SHAPE  SHAPE_855RECT1215          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472         135.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         135.000 NO     DARK 
+  PAD SHAPE  SHAPE_540RECT585          180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_180RECTX585         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         180.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_945RECT1125         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECTX900         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1050RECT1250        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000         180.000 NO     DARK 
+  PAD SHAPE  BULLET_270X720_PM         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_675RECTX810         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_855RECT900          180.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX650         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECT650          180.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_810RECTX1170        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1260        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472         225.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         225.000 NO     DARK 
+  PAD SHAPE  SHAPE_270RECT675          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_855RECT900          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT750          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_675RECT675          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1755RECTX5715       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1260        270.000 NO     DARK 
+  PAD SHAPE  BULLET_270X720_PM         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1080RECT1260        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_810RECTX1170        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_270X1530            270.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECT750          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1950RECTX6350       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1170RECTX4950       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_180RECTX315         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1200RECT1400        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1300RECTX5500       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000         270.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         315.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX472         315.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_PASTEMASK-TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK-BOTTOM >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_PASTEMASK-BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (8007.0 11260.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (8007.0 11210.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (8007.0 11160.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (8007.0 11110.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (7957.0 11260.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (7957.0 11210.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (7957.0 11160.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (7957.0 11110.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (8007.0 11310.0).
+    WARNING: Null REGULAR-PAD specified for padstack BGA800_NOPM at (7957.0 11310.0).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_PASTEMASK-BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SLODERMASK-TOP >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_SLODERMASK-TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02200                                  DARK 
+  CIRCLE     0.04300                                  DARK 
+  CIRCLE     0.04700                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.07100                                  DARK 
+  CIRCLE     0.07300                                  DARK 
+  CIRCLE     0.13400                                  DARK 
+  CIRCLE     0.15600                                  DARK 
+  SQUARE     0.04500                     0.000 NO     DARK 
+  SQUARE     0.21300                     0.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.07300      90.000 NO     DARK 
+  RECTANGLE  0.07100     x 0.10400       0.000 NO     DARK 
+  OBLONG     0.01200     x 0.06500       0.000 NO     DARK 
+  OBLONG     0.01200     x 0.06500      90.000 NO     DARK 
+  OBLONG     0.01600     x 0.03500       0.000 NO     DARK 
+  OBLONG     0.01600     x 0.03500      90.000 NO     DARK 
+  OBLONG     0.02200     x 0.04100      90.000 NO     DARK 
+  OBLONG     0.02800     x 0.08700       0.000 NO     DARK 
+  OBLONG     0.06100     x 0.08900       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX450           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1550RECTX2050         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1550RECTX2200         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1150RECTX1550         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_550RECTX1500          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675           0.000 NO     DARK 
+  PAD SHAPE  BULLET_400X900_SM           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT800            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_400RECTX550           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX400           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_400RECT500            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675          45.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECT900           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1050         90.000 NO     DARK 
+  PAD SHAPE  BULLET_400X900_SM          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX1000         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1150RECT1950         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECT1050          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1450RECTX5650        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX750          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1150         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1500         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_2100RECTX6500        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX450          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1050RECTX1450        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675         135.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT800          180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1150        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX750         180.000 NO     DARK 
+  PAD SHAPE  BULLET_400X900_SM         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1050        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1200RECT1400        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1050RECTX1450       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1150RECTX1550       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675         225.000 NO     DARK 
+  PAD SHAPE  SHAPE_1450RECTX5650       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1100RECT1150        270.000 NO     DARK 
+  PAD SHAPE  BULLET_400X900_SM         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1150RECTX1550       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX450         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1050RECTX1450       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1350RECT1550        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_2100RECTX6500       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_400RECT850          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECT900          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_650RECTX675         315.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_SLODERMASK-TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK-BOTTOM >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_SOLDERMASK-BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.03700                                  DARK 
+  CIRCLE     0.04300                                  DARK 
+  CIRCLE     0.04700                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.07100                                  DARK 
+  CIRCLE     0.07300                                  DARK 
+  CIRCLE     0.13400                                  DARK 
+  CIRCLE     0.15600                                  DARK 
+  OBLONG     0.06100     x 0.08900       0.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_SOLDERMASK-BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN-TOP >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_SILKSCREEN-TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (8993.0 11523.0)
+           ... using undefined line width of 4.0
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00390                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_SILKSCREEN-TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN-BOTTOM >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_SILKSCREEN-BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 4.0
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01570                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_SILKSCREEN-BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY-BOTTOM >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_ASSEMBLY-BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (8273.0 9684.0)
+           ... using undefined line width of 4.0
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 4.0
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_ASSEMBLY-BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.06700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  SQUARE     0.03900                     0.000 NO     DARK 
+  SQUARE     0.20700                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.06700      90.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.09800       0.000 NO     DARK 
+  OBLONG     0.00800     x 0.05900       0.000 NO     DARK 
+  OBLONG     0.00800     x 0.05900      90.000 NO     DARK 
+  OBLONG     0.01200     x 0.03100       0.000 NO     DARK 
+  OBLONG     0.01200     x 0.03100      90.000 NO     DARK 
+  OBLONG     0.01600     x 0.03500      90.000 NO     DARK 
+  OBLONG     0.02200     x 0.08100       0.000 NO     DARK 
+  OBLONG     0.05500     x 0.08300       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX1400          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECT650            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECT400            0.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX450           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1400RECTX1900         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX300           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1450RECTX2100         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525          45.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1350          90.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT900           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECT1800         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECTX900          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX900          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1300RECTX5500        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX650          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT750           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1950RECTX6350        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         135.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX650         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1050RECT1250        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECT650          180.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECTX900         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         225.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         270.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECT750          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1300RECTX5500       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1200RECT1400        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT750          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1950RECTX6350       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         315.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.06700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  OBLONG     0.00100     x 0.00200       0.000 NO     DARK 
+  OBLONG     0.05500     x 0.08300       0.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY-TOP >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_ASSEMBLY-TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_ASSEMBLY-TOP created.
+
+
+================================================================
+     PROCESSING FILM < FABRICATION-DRAWING >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_FABRICATION-DRAWING.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_FABRICATION-DRAWING created.
+
+
+================================================================
+     PROCESSING FILM < LAYER2 >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_LAYER2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.06700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  OBLONG     0.05500     x 0.08300       0.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_LAYER2 created.
+
+
+================================================================
+     PROCESSING FILM < LAYER3 >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_LAYER3.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03100                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.06700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  OBLONG     0.05500     x 0.08300       0.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_LAYER3 created.
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY-BOTTOM-MIRRORED >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_ASSEMBLY-BOTTOM-MIRRORED.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.0
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_ASSEMBLY-BOTTOM-MIRRORED created.
+
+
+================================================================
+     PROCESSING FILM < WORKVIEW >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_WORKVIEW.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (7932.0 6929.0)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_WORKVIEW created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCRENN-TOP-WORKVIEW >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_SILKSCRENN-TOP-WORKVIEW.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00390                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00700                                  DARK 
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.06700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  SQUARE     0.03900                     0.000 NO     DARK 
+  SQUARE     0.20700                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.06700      90.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.03900      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.09800       0.000 NO     DARK 
+  OBLONG     0.00800     x 0.05900       0.000 NO     DARK 
+  OBLONG     0.00800     x 0.05900      90.000 NO     DARK 
+  OBLONG     0.01200     x 0.03100       0.000 NO     DARK 
+  OBLONG     0.01200     x 0.03100      90.000 NO     DARK 
+  OBLONG     0.01600     x 0.03500      90.000 NO     DARK 
+  OBLONG     0.02200     x 0.08100       0.000 NO     DARK 
+  OBLONG     0.05500     x 0.08300       0.000 NO     DARK 
+  PAD SHAPE  SHAPE_450RECTX1400          0.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECT650            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECT400            0.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX300           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECTX450           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1450RECTX2100         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350           0.000 NO     DARK 
+  PAD SHAPE  SHAPE_1400RECTX1900         0.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH         0.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525          45.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECT1800         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1350          90.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX650          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECTX900          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT900           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300         90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1300RECTX5500        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX900          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_1950RECTX6350        90.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350          90.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT750           90.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         135.000 NO     DARK 
+  PAD SHAPE  SHAPE_1050RECT1250        180.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECTX900         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_600RECT650          180.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX650         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300        180.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH       180.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         180.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         225.000 NO     DARK 
+  PAD SHAPE  BULLET_300X800_ETCH       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1000RECTX1400       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1300RECTX5500       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_200RECTX350         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1200RECT1400        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_900RECTX1300        270.000 NO     DARK 
+  PAD SHAPE  SHAPE_750RECT750          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_1950RECTX6350       270.000 NO     DARK 
+  PAD SHAPE  SHAPE_300RECT750          270.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_950RECT1000         270.000 NO     DARK 
+  PAD SHAPE  SHAPE_500RECTX525         315.000 NO     DARK 
+
+     LAUNCHXL-CC1350-4-A_SILKSCRENN-TOP-WORKVIEW created.
+
+
+================================================================
+     PROCESSING FILM < BOARD-OUTLINE >
+     TO FILE < C:/Users/a0274226/Documents/MyDocs/Projects/LAUNCHXL-CC1350-433MHz/REV-A/Cadence/LAUNCHXL-CC1350-4-A_BOARD-OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0
+  Offset y:                           0.0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00850                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+
+     LAUNCHXL-CC1350-4-A_BOARD-OUTLINE created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        LAUNCHXL-CC1350-4-A_PASTEMASK-TOP created with warnings
+        LAUNCHXL-CC1350-4-A_PASTEMASK-BOTTOM created with warnings
+        LAUNCHXL-CC1350-4-A_SLODERMASK-TOP created.
+        LAUNCHXL-CC1350-4-A_SOLDERMASK-BOTTOM created.
+        LAUNCHXL-CC1350-4-A_SILKSCREEN-TOP created with warnings
+        LAUNCHXL-CC1350-4-A_SILKSCREEN-BOTTOM created with warnings
+        LAUNCHXL-CC1350-4-A_ASSEMBLY-BOTTOM created with warnings
+        LAUNCHXL-CC1350-4-A_TOP created.
+        LAUNCHXL-CC1350-4-A_BOTTOM created.
+        LAUNCHXL-CC1350-4-A_ASSEMBLY-TOP created.
+        LAUNCHXL-CC1350-4-A_FABRICATION-DRAWING created.
+        LAUNCHXL-CC1350-4-A_LAYER2 created.
+        LAUNCHXL-CC1350-4-A_LAYER3 created.
+        LAUNCHXL-CC1350-4-A_ASSEMBLY-BOTTOM-MIRRORED created.
+        LAUNCHXL-CC1350-4-A_WORKVIEW created with warnings
+        LAUNCHXL-CC1350-4-A_SILKSCRENN-TOP-WORKVIEW created.
+        LAUNCHXL-CC1350-4-A_BOARD-OUTLINE created.
+
+ ARTWORK had warnings

@@ -1,0 +1,386 @@
+Mon Jan 23 14:11:33 2017				Page     1
+
+Photoplot log file
+Results from aperture table.
+
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               1            D78
+LINE             1.2            D348
+LINE               2            D344
+LINE               3            D347
+LINE             3.9            D349
+LINE               4            D341
+LINE               5            D346
+LINE             5.9            D350
+LINE               6            D345
+LINE               7            D157
+LINE               8            D152
+LINE             8.5            D343
+LINE              10            D342
+LINE              11            D31
+LINE              12            D25
+LINE              14            D149
+LINE              15            D354
+LINE            15.7            D352
+LINE              16            D28
+LINE              18            D139
+LINE              19            D311
+LINE              20            D353
+LINE              21            D104
+LINE              22            D142
+LINE              23            D95
+LINE              24            D98
+LINE              25            D351
+LINE              26            D89
+LINE              28            D308
+LINE              30            D101
+LINE              31            D92
+LINE              39            D237
+LINE              45            D241
+LINE              55            D244
+LINE              61            D247
+CIRCLE             4            D300
+CIRCLE            16            D268
+CIRCLE            20            D10
+CIRCLE            22            D20
+CIRCLE            24            D299
+CIRCLE            26            D21
+CIRCLE            30            D168
+CIRCLE            31            D19
+CIRCLE            33            D166
+CIRCLE            35            D169
+CIRCLE            37            D325
+CIRCLE            39            D167
+Mon Jan 23 14:11:33 2017				Page     2
+
+Photoplot log file
+Results from aperture table.
+
+CIRCLE            43            D301
+CIRCLE            45            D240
+CIRCLE            47            D303
+CIRCLE            50            D323
+CIRCLE            53            D49
+CIRCLE            56            D324
+CIRCLE            59            D50
+CIRCLE            61            D76
+CIRCLE            62            D15
+CIRCLE            64            D18
+CIRCLE            65            D48
+CIRCLE            67            D77
+CIRCLE            69            D13
+CIRCLE            71            D16
+CIRCLE            73            D11
+CIRCLE            75            D14
+CIRCLE            77            D17
+CIRCLE            79            D12
+CIRCLE            81            D53
+CIRCLE            87            D54
+CIRCLE            93            D51
+CIRCLE            98            D52
+CIRCLE           134            D302
+CIRCLE           150            D266
+CIRCLE           156            D267
+SQUARE            35   0.00000            D24
+SQUARE            39   0.00000            D22
+SQUARE            45   0.00000            D23
+SQUARE           207   0.00000            D304
+SQUARE           213   0.00000            D305
+RECTANGLE         10        10   0.00000  D233
+RECTANGLE         10        65   0.00000  D293
+RECTANGLE         12        12   0.00000  D231
+RECTANGLE         12        67   0.00000  D55
+RECTANGLE         16        10   0.00000  D62
+RECTANGLE         16        16   0.00000  D232
+RECTANGLE         16        71   0.00000  D295
+RECTANGLE         18        12   0.00000  D60
+RECTANGLE         18        20   0.00000  D336
+RECTANGLE         18        73   0.00000  D57
+RECTANGLE         20        10   0.00000  D236
+RECTANGLE         20        18   0.00000  D337
+RECTANGLE         20        20   0.00000  D47
+RECTANGLE         20        39   0.00000  D334
+RECTANGLE         22        12   0.00000  D234
+RECTANGLE         22        16   0.00000  D61
+RECTANGLE         22        22   0.00000  D45
+RECTANGLE         26        10   0.00000  D265
+RECTANGLE         26        16   0.00000  D235
+RECTANGLE         26        26   0.00000  D46
+RECTANGLE         28         4   0.00000  D297
+RECTANGLE         30        12   0.00000  D264
+Mon Jan 23 14:11:33 2017				Page     3
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE         30        30   0.00000  D132
+RECTANGLE         32        26   0.00000  D44
+RECTANGLE         34        16   0.00000  D230
+RECTANGLE         34        34   0.00000  D130
+RECTANGLE         36        16   0.00000  D123
+RECTANGLE         36        30   0.00000  D42
+RECTANGLE         36        34   0.00000  D340
+RECTANGLE         38        18   0.00000  D228
+RECTANGLE         39        20   0.00000  D335
+RECTANGLE         39        79   0.00000  D40
+RECTANGLE         40        18   0.00000  D121
+RECTANGLE         40        38   0.00000  D338
+RECTANGLE         40        40   0.00000  D131
+RECTANGLE         42        36   0.00000  D43
+RECTANGLE         44        24   0.00000  D229
+RECTANGLE         44        30   0.00000  D68
+RECTANGLE         46        24   0.00000  D122
+RECTANGLE         46        32   0.00000  D73
+RECTANGLE         46        44   0.00000  D339
+RECTANGLE         48        34   0.00000  D71
+RECTANGLE         48        40   0.00000  D138
+RECTANGLE         50        34   0.00000  D66
+RECTANGLE         50        36   0.00000  D75
+RECTANGLE         52        36   0.00000  D72
+RECTANGLE         52        38   0.00000  D65
+RECTANGLE         52        44   0.00000  D135
+RECTANGLE         54        38   0.00000  D69
+RECTANGLE         54        46   0.00000  D136
+RECTANGLE         56        40   0.00000  D67
+RECTANGLE         58        42   0.00000  D63
+RECTANGLE         58        50   0.00000  D133
+RECTANGLE         60        10   0.00000  D59
+RECTANGLE         60        44   0.00000  D70
+RECTANGLE         60        52   0.00000  D137
+RECTANGLE         62        34   0.00000  D129
+RECTANGLE         62        46   0.00000  D74
+RECTANGLE         62        48   0.00000  D64
+RECTANGLE         62        56   0.00000  D134
+RECTANGLE         65        10   0.00000  D294
+RECTANGLE         65        98   0.00000  D223
+RECTANGLE         66        38   0.00000  D126
+RECTANGLE         67        12   0.00000  D56
+RECTANGLE         68        38   0.00000  D127
+RECTANGLE         71        16   0.00000  D296
+RECTANGLE         71       104   0.00000  D225
+RECTANGLE         72        42   0.00000  D124
+RECTANGLE         73        18   0.00000  D58
+RECTANGLE         74        44   0.00000  D128
+RECTANGLE         78        48   0.00000  D125
+RECTANGLE         79        39   0.00000  D41
+RECTANGLE         85       124   0.00000  D259
+RECTANGLE         88        58   0.00000  D227
+Mon Jan 23 14:11:33 2017				Page     4
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE         91       130   0.00000  D261
+RECTANGLE         98        65   0.00000  D224
+RECTANGLE        104        71   0.00000  D226
+RECTANGLE        112        76   0.00000  D263
+RECTANGLE        124        85   0.00000  D260
+RECTANGLE        130        91   0.00000  D262
+RECTANGLE        142       165   0.00000  D116
+RECTANGLE        148       126   0.00000  D120
+RECTANGLE        148       171   0.00000  D118
+RECTANGLE        165       142   0.00000  D117
+RECTANGLE        171       148   0.00000  D119
+OBLONG             1         2   0.00000  D79
+OBLONG             2         1   0.00000  D80
+OBLONG             7        44   0.00000  D164
+OBLONG             7        53   0.00000  D279
+OBLONG             7        60   0.00000  D158
+OBLONG             8        49   0.00000  D160
+OBLONG             8        59   0.00000  D275
+OBLONG             8        67   0.00000  D153
+OBLONG            11        23   0.00000  D285
+OBLONG            11        28   0.00000  D328
+OBLONG            11        30   0.00000  D174
+OBLONG            11        32   0.00000  D32
+OBLONG            11        35   0.00000  D186
+OBLONG            12        26   0.00000  D281
+OBLONG            12        31   0.00000  D326
+OBLONG            12        34   0.00000  D170
+OBLONG            12        35   0.00000  D26
+OBLONG            12        39   0.00000  D182
+OBLONG            12        53   0.00000  D162
+OBLONG            12        65   0.00000  D277
+OBLONG            12        73   0.00000  D155
+OBLONG            14        10   0.00000  D289
+OBLONG            14        14   0.00000  D217
+OBLONG            14        25   0.00000  D150
+OBLONG            14        32   0.00000  D273
+OBLONG            14        37   0.00000  D205
+OBLONG            16        12   0.00000  D287
+OBLONG            16        16   0.00000  D215
+OBLONG            16        28   0.00000  D145
+OBLONG            16        31   0.00000  D283
+OBLONG            16        35   0.00000  D269
+OBLONG            16        37   0.00000  D172
+OBLONG            16        39   0.00000  D29
+OBLONG            16        41   0.00000  D203
+OBLONG            16        43   0.00000  D184
+OBLONG            18        43   0.00000  D140
+OBLONG            19        73   0.00000  D312
+OBLONG            20        10   0.00000  D178
+OBLONG            20        16   0.00000  D288
+OBLONG            20        20   0.00000  D216
+OBLONG            21        30   0.00000  D105
+Mon Jan 23 14:11:33 2017				Page     5
+
+Photoplot log file
+Results from aperture table.
+
+OBLONG            21        37   0.00000  D111
+OBLONG            21        76   0.00000  D195
+OBLONG            22        12   0.00000  D176
+OBLONG            22        22   0.00000  D333
+OBLONG            22        33   0.00000  D147
+OBLONG            22        41   0.00000  D271
+OBLONG            22        47   0.00000  D143
+OBLONG            22        81   0.00000  D306
+OBLONG            23        11   0.00000  D286
+OBLONG            23        44   0.00000  D96
+OBLONG            24        10   0.00000  D202
+OBLONG            24        33   0.00000  D99
+OBLONG            24        41   0.00000  D107
+OBLONG            25        14   0.00000  D151
+OBLONG            26        10   0.00000  D222
+OBLONG            26        12   0.00000  D282
+OBLONG            26        16   0.00000  D177
+OBLONG            26        20   0.00000  D86
+OBLONG            26        26   0.00000  D36
+OBLONG            26        49   0.00000  D90
+OBLONG            26        85   0.00000  D191
+OBLONG            28        11   0.00000  D329
+OBLONG            28        12   0.00000  D200
+OBLONG            28        16   0.00000  D146
+OBLONG            28        22   0.00000  D88
+OBLONG            28        87   0.00000  D309
+OBLONG            30        11   0.00000  D175
+OBLONG            30        12   0.00000  D221
+OBLONG            30        14   0.00000  D220
+OBLONG            30        21   0.00000  D106
+OBLONG            30        22   0.00000  D84
+OBLONG            30        24   0.00000  D83
+OBLONG            30        30   0.00000  D34
+OBLONG            30        39   0.00000  D102
+OBLONG            30        47   0.00000  D109
+OBLONG            31        12   0.00000  D327
+OBLONG            31        16   0.00000  D284
+OBLONG            31        55   0.00000  D93
+OBLONG            31        91   0.00000  D193
+OBLONG            32        10   0.00000  D199
+OBLONG            32        11   0.00000  D33
+OBLONG            32        14   0.00000  D274
+OBLONG            32        16   0.00000  D201
+OBLONG            32        24   0.00000  D87
+OBLONG            32        26   0.00000  D332
+OBLONG            33        22   0.00000  D148
+OBLONG            33        24   0.00000  D100
+OBLONG            34        10   0.00000  D211
+OBLONG            34        12   0.00000  D171
+OBLONG            34        16   0.00000  D218
+OBLONG            34        26   0.00000  D81
+OBLONG            34        34   0.00000  D35
+Mon Jan 23 14:11:33 2017				Page     6
+
+Photoplot log file
+Results from aperture table.
+
+OBLONG            35        11   0.00000  D187
+OBLONG            35        12   0.00000  D27
+OBLONG            35        16   0.00000  D270
+OBLONG            36        12   0.00000  D197
+OBLONG            36        28   0.00000  D85
+OBLONG            36        30   0.00000  D330
+OBLONG            37        14   0.00000  D206
+OBLONG            37        16   0.00000  D173
+OBLONG            37        21   0.00000  D112
+OBLONG            38        12   0.00000  D210
+OBLONG            38        20   0.00000  D214
+OBLONG            38        30   0.00000  D82
+OBLONG            38        40   0.00000  D209
+OBLONG            39        12   0.00000  D183
+OBLONG            39        16   0.00000  D30
+OBLONG            39        30   0.00000  D103
+OBLONG            39        61   0.00000  D238
+OBLONG            40        16   0.00000  D198
+OBLONG            40        22   0.00000  D219
+OBLONG            40        38   0.00000  D39
+OBLONG            41        16   0.00000  D204
+OBLONG            41        22   0.00000  D272
+OBLONG            41        24   0.00000  D108
+OBLONG            42        16   0.00000  D115
+OBLONG            42        22   0.00000  D212
+OBLONG            42        36   0.00000  D331
+OBLONG            43        16   0.00000  D185
+OBLONG            43        18   0.00000  D141
+OBLONG            44         7   0.00000  D165
+OBLONG            44        23   0.00000  D97
+OBLONG            44        38   0.00000  D292
+OBLONG            44        46   0.00000  D207
+OBLONG            45        67   0.00000  D242
+OBLONG            46        32   0.00000  D316
+OBLONG            46        44   0.00000  D37
+OBLONG            47        22   0.00000  D144
+OBLONG            47        30   0.00000  D110
+OBLONG            48        18   0.00000  D113
+OBLONG            48        28   0.00000  D213
+OBLONG            48        34   0.00000  D322
+OBLONG            49         8   0.00000  D161
+OBLONG            49        26   0.00000  D91
+OBLONG            50        16   0.00000  D258
+OBLONG            50        36   0.00000  D319
+OBLONG            50        42   0.00000  D290
+OBLONG            50        52   0.00000  D208
+OBLONG            52        36   0.00000  D314
+OBLONG            52        50   0.00000  D38
+OBLONG            53         7   0.00000  D280
+OBLONG            53        12   0.00000  D163
+OBLONG            54        24   0.00000  D114
+OBLONG            54        38   0.00000  D320
+Mon Jan 23 14:11:33 2017				Page     7
+
+Photoplot log file
+Results from aperture table.
+
+OBLONG            54        48   0.00000  D190
+OBLONG            55        31   0.00000  D94
+OBLONG            55        83   0.00000  D245
+OBLONG            56        18   0.00000  D256
+OBLONG            56        40   0.00000  D317
+OBLONG            56        48   0.00000  D291
+OBLONG            56        50   0.00000  D181
+OBLONG            58        42   0.00000  D315
+OBLONG            58        44   0.00000  D321
+OBLONG            59         8   0.00000  D276
+OBLONG            60         7   0.00000  D159
+OBLONG            60        22   0.00000  D257
+OBLONG            61        39   0.00000  D239
+OBLONG            61        89   0.00000  D248
+OBLONG            62        46   0.00000  D318
+OBLONG            62        54   0.00000  D188
+OBLONG            62        56   0.00000  D179
+OBLONG            65        12   0.00000  D278
+OBLONG            66        60   0.00000  D189
+OBLONG            67         8   0.00000  D154
+OBLONG            67        45   0.00000  D243
+OBLONG            68        50   0.00000  D252
+OBLONG            68        62   0.00000  D180
+OBLONG            73        12   0.00000  D156
+OBLONG            73        19   0.00000  D313
+OBLONG            74        52   0.00000  D255
+OBLONG            74        56   0.00000  D250
+OBLONG            76        21   0.00000  D196
+OBLONG            80        62   0.00000  D251
+OBLONG            81        22   0.00000  D307
+OBLONG            82        58   0.00000  D253
+OBLONG            83        55   0.00000  D246
+OBLONG            85        26   0.00000  D192
+OBLONG            86        62   0.00000  D254
+OBLONG            87        28   0.00000  D310
+OBLONG            89        61   0.00000  D249
+OBLONG            91        31   0.00000  D194
+FLASH     AB00                 0.00000  D298
+

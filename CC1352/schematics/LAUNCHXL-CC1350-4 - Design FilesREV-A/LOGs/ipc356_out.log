@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 16.6-2015S068                                 )
+(    Date/Time        : Mon Jan 23 14:24:06 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String SHAPE_1000X2000_WOSMPA exceeds record length on line 63 at column 0
+Warning: String S1400OBL2100_600M1300 exceeds record length on line 135 at column 0
+Warning: String SHAPE_500X1000_WOSMPA exceeds record length on line 171 at column 0
+Warning: Found a mechanical pin at location (8226.0 11431.0) with no drill - skipping.
+Warning: Found a mechanical pin at location (8420.0 11431.0) with no drill - skipping.
+Warning: Found a mechanical pin at location (8286.0 11521.0) with no drill - skipping.
+Warning: Found a mechanical pin at location (8360.0 11521.0) with no drill - skipping.
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:     7

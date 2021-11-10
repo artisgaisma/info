@@ -1,0 +1,21 @@
+\t (00:00:17) allegro 17.2 S024 Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Thu Feb 08 13:23:59 2018
+\t (00:00:17)         Host=LTA0190524A User=a0190524 Pid=15352 CPUs=4
+\t (00:00:17) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:17) 
+   (00:00:17) Loading axlcore.cxt 
+   (00:00:17) Momentum Allegro Integration (Version 5.1.7)
+\t (00:00:22) Opening existing design...
+\d (00:00:22) Design opened: C:/apps/reference_designs/CC1310_CC1190_launchpad/LAUNCHPAD_CC1310_CC1190_1_3_0/Cadence/Allegro/MCU013_LAUNCHXL-CC1310_CC1190.brd
+\i (00:00:23) trapsize 1364
+\i (00:00:23) trapsize 1395
+\i (00:00:23) trapsize 1595
+   (00:00:24) Please reload your design if the ADFI menu items remain missing.
+\i (00:00:24) generaledit 
+\i (00:04:20) open 
+\i (00:04:41) fillin "C:\apps\layout\CC1352PM-XD7793-XD24-PA24_10dBm\Cadence\allegro\CC1352PEM-XD7793-XD24-PA24_10dBm.brd"
+\i (00:04:41) cd "C:\apps\layout\CC1352PM-XD7793-XD24-PA24_10dBm\Cadence\allegro"
+\t (00:04:41) Opening existing design...
+\t (00:04:41) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:04:41) trapsize 652
+\t (00:04:41)     Journal end - Thu Feb 08 13:28:23 2018

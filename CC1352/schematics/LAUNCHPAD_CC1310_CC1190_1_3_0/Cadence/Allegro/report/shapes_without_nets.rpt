@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : LAUNCHXL-CC1310_CC1190.brd                    )
+(    Software Version : 17.2S006                                      )
+(    Date/Time        : Thu Nov 10 08:40:33 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (229.850 200.750)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.
