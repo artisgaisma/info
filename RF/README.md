@@ -2,7 +2,8 @@
 
 | DIRECTION     | MODEL     | F 				| MODE 		|PIN|
 | ------------- | ----------|-------			|-------	|--|
-|TRANSMIT		| MICRF 113	| 300-45 10dbm		| ASK		|6|
+|TRANSMIT		| MICRF 112	| 300-450 10dbm		| ASK/FSK	|10|
+|				| MICRF 113	| 300-450 10dbm		| ASK		|6|
 |				| MICRF 114 | 285-445 10dbm		| OOK		|6|
 |	-			| 		-	| 		-			|	-		|-|
 |RECEIVER		| MICRF 211 | 380-450 -110dbm	| ASK OOK	|16|
