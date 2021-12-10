@@ -34,7 +34,7 @@ Atmega 1281 	54	8/16	128KB	4KB	8KB	6	2	6EUR
 Atmega 2561	54	8/16	256KB	4KB	8KB	6	2
 Atmega 1280	86	8/16	128KB	4KB	8KB	12	4
 Atmega 2560	86	8/16	256KB	4KB	8KB	12	4
-Atxmega256a3u Allard QuadAnt taimeris
+Atxmega256a3u 	64p	32	256	4KB	16KB	22	7	8eur	Allard QuadAnt taimeris
 
 STM32F103x8	32	8-78	64KB	---	20KB	13	3	Have sample Board
 
