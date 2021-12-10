@@ -8,6 +8,11 @@
 - FF-Gyro   Accelerometer Sensor for Model positionig, angle, speed.
 - FF-B-Box  Altitudes and Accelerometer Logger for full review.
 ```
+### FF-B-BOX (Black Box - Flight Recorder)
+![flight recorder](https://user-images.githubusercontent.com/51158344/145562716-7214dbce-8d38-4832-8a4f-f431d326111b.JPG)
+
+
+
 ### RF
 - SX1262  - 150-960MHz
 - SX1276
