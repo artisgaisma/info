@@ -5,7 +5,9 @@
 |TRANSMIT		    | MICRF 112	| 300-450 10dbm		| ASK/FSK	|10|0.75|
 |				        | MICRF 113	| 300-450 10dbm		| ASK		|6|0.76|
 |				        | MICRF 114 | 285-445 10dbm		| OOK		|6|0.66|
+|				        | MICRF405	| 290-980 10dbm		| ASK/FSK|24|1.70|
 |				        | SYN113/5	| 300-450 10dbm		| ASK		|6|0.45|
+
 |	-			        | 		-	    | 		-			      |	-		  |-|   |
 |RECEIVER		    | MICRF 211 | 380-450 -110dbm	| ASK OOK	|16||
 |				| MICRF 213 | 300-350 -110dbm	| ASK OOK	|16||
