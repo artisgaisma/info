@@ -147,6 +147,9 @@ nRF52832
 - GPS LNA Amplifier
 - Similar to MAX2659
 
+## MAX2659ELT - Amplifier
+- 0.80 Eur
+
 ![MAX2659](https://user-images.githubusercontent.com/51158344/138034729-88f1791f-ce43-4ffa-9191-df2d7859400a.JPG)
 
 ![AT6558 MAX2659](https://user-images.githubusercontent.com/51158344/138398950-6af3a6af-cdb8-4e70-bff7-b37c2414e89a.JPG)
@@ -162,6 +165,16 @@ nRF52832
 
 ![thumbweel toggle](https://user-images.githubusercontent.com/51158344/146143846-d2c26958-bbf1-4326-82f5-51ebb0e42dc7.JPG)
 
+# Charger
+
+|part No|Manufact|Price|info|
+|--|--|--|--|
+|BQ25170|TI|0.39usd|Pick&Place|
+
+# Boost
+|part No|Manufact|Price|info|
+|--|--|--|--|
+|TPS61023DRLT|TI|0.37|Pick&Place|
 
 
 
