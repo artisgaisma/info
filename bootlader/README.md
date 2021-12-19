@@ -82,4 +82,4 @@ arduino Mini	83%	28672	42%		1179
 ## Install
 - run `zadig-2.3.exe`
 - choose USBasp from list
-- install as `libusb-win32(v1.2.6.0)`
+- install as `libusbK(v3.0.7.0)`
