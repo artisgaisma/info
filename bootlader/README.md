@@ -79,7 +79,11 @@ arduino Mini	83%	28672	42%		1179
 
 
 # USB ASP 
-## Install
-- run `zadig-2.3.exe`
+## Install - win7 win10
+- run `zadig-2.3.exe` - https://zadig.akeo.ie/
 - choose USBasp from list
 - install as `libusbK(v3.0.7.0)`
+- 
+### source
+- https://rlogiacco.wordpress.com/2016/09/01/usbasp-windows-10/
+- https://www.instructables.com/USBASP-Installation-in-Windows-10/
