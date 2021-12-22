@@ -180,6 +180,8 @@ nRF52832
 
 ![PCBA test boarde](https://user-images.githubusercontent.com/51158344/147054404-a0025f24-1e78-4610-888a-7c54c3d18cf1.JPG)
 
+![pcba board](https://user-images.githubusercontent.com/51158344/147055183-389852e9-f498-45c7-bda8-8af5032af29a.JPG)
+
 
 # CODE
 
