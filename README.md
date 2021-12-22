@@ -154,17 +154,6 @@ nRF52832
 
 ![AT6558 MAX2659](https://user-images.githubusercontent.com/51158344/138398950-6af3a6af-cdb8-4e70-bff7-b37c2414e89a.JPG)
 
-# PARTS
-
-
-
-![tactile button](https://user-images.githubusercontent.com/51158344/146143643-3369e4f9-bee3-4061-8eff-160dec896108.JPG)
-![magnetic encoder](https://user-images.githubusercontent.com/51158344/146143645-0cd44141-c8cc-455e-ba63-4bcb02401a62.JPG)
-![navigation key](https://user-images.githubusercontent.com/51158344/146143647-ccf3fe30-0d01-4038-b550-1bcbc8494eec.JPG)
-![rotary thumbwheel](https://user-images.githubusercontent.com/51158344/146143649-842f25e2-9818-4331-8bd0-023b18828e11.JPG)
-
-![thumbweel toggle](https://user-images.githubusercontent.com/51158344/146143846-d2c26958-bbf1-4326-82f5-51ebb0e42dc7.JPG)
-
 # Charger
 
 |part No|Manufact|Price|info|
