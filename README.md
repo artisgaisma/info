@@ -176,6 +176,9 @@ nRF52832
 |--|--|--|--|
 |TPS61023DRLT|TI|0.37|Pick&Place|
 
+# PCBA Test
+
+![PCBA test boarde](https://user-images.githubusercontent.com/51158344/147054404-a0025f24-1e78-4610-888a-7c54c3d18cf1.JPG)
 
 
 # CODE
