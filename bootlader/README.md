@@ -61,7 +61,7 @@ If I set BLB1 to: SPM and LPM prohibited in boot section, code fails.
 ```
 
 # Bootloader - BLE HEX
-
+- https://github.com/majekw/optiboot/tree/supermaster
 - https://forum.arduino.cc/t/writing-to-flash-from-application-please-test-and-enjoy/320295
 
 ### Test
