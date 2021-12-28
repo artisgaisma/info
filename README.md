@@ -68,7 +68,7 @@ nRF52832
 |	-			        | 		-	    | 		-			      |	-		  |-|   |
 |RECEIVER		    | MICRF 211 | 380-450 -110dbm	| ASK OOK	|16||
 |				| MICRF 213 | 300-350 -110dbm	| ASK OOK	|16||
-|				| MICRF 220 | 300-450 -110dbm	| ASK OOK	|16||
+| have sample	| MICRF 220 | 300-450 -110dbm	| ASK OOK	|16|1.2eur|
 |				| MICRF 221 | 850-950 -109dbm	| ASK OOK	|16||
 
 
