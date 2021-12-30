@@ -13,6 +13,7 @@
 - 1.5A
 - 1.5-5.5V
 - 2nA OFF state
+- - Cin - 1uF
 
 ![TPS22919 layout](https://user-images.githubusercontent.com/51158344/147736287-10ffc692-2f69-4fdc-893e-cc45657b3f81.JPG)
 ![tps pinout](https://user-images.githubusercontent.com/51158344/147736685-e578030f-75f2-4687-b4b6-7391a2faeff4.JPG)
