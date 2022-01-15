@@ -15,6 +15,18 @@
 ![sim33 sch](https://user-images.githubusercontent.com/51158344/138419999-65183f27-9668-4ec8-950d-526db0a5e6d1.JPG)
 ![sim33 sch2](https://user-images.githubusercontent.com/51158344/138420013-870b1c21-981b-46c4-920d-e1e039ae7edf.JPG)
 
+### L96
+- 14×9.6×2.5
+- 20mW tracking
+- Acuracy 2.5m
+- 8.00 EUR Aliexpress
+- GPS, GLONASS, BeiDou, Galileo and QZSS 
+- Built-in LNA for better sensitivity 
+- https://forum.arduino.cc/t/active-gps-antenna-is-not-working/620041
+
+![L96](https://user-images.githubusercontent.com/51158344/149634546-8bd748f0-82f6-4e4c-9641-865eb0845785.PNG)
+![L96 board](https://user-images.githubusercontent.com/51158344/149634602-32388d08-a926-4cc8-801b-91ae201e9ae0.PNG)
+
 
 ### CAM-M8 Q/C
 - 24eEUR
