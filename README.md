@@ -1,8 +1,10 @@
-# MCU`s:
+# MCU
 
-`8MHZ - 8,000,000 cycles per second `int 4bytes -2`147`483`648	to 2`147`483`648 or uint32_t 4 bytes [0-4294967295]`
+`8MHZ - 8,000,000 cycles per second`
 
-`EEPROM write cycle typically takes 3.3 ms to complete`
+```int 4bytes -2`147`483`648	to 2`147`483`648 or uint32_t 4 bytes [0-4294967295]```
+
+`EEPROM`	 write cycle typically takes 	`3.3 m`s to complete
 
 ## TI
 ```		
