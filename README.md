@@ -48,6 +48,14 @@ SAMD21			48MHz	256KB	NO	32KB 12
 
 nRF52832
 ```
+### LPC11U3x
+32-bit ARM Cortex-M0 
+up to 128 kB flash; 
+upto 12 kB SRAM 
+4 kB EEPROM
+USB device
+USART
+
 
 ## Ferrite Bead
 ```
