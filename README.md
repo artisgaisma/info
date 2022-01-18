@@ -7,19 +7,21 @@
 `EEPROM`	 write cycle typically takes 	`3.3 m`s to complete
 
 ## TI
-```		
-		I/O		FLASH	RAM	BAND
-CC1301 		10-30		32-128	16/20	Sub 1GHz, Wi-Fi
-CC1350		10-33		128KB	20KB	Sub-1GHz, Wi-Fi, BLE	-	Launchpad ordered
-CC1352R		28		352KB	80KB	Sub-1GHz AND 2.4GHz - DUAL BAND
-CC1352P		26		352KB	80KB	Sub-1GHz AND 2.4GHz - integrated amplifier
-CC2640R2	10-31		128KB	20KB	BLE 5, 2.4GHz
-
-cc110L - transmit		<1.5e	300-928MHz
-cc115L - transmit		<1e	300-928MHz
-cc1150 - transmit		<2e 	300-900MHz
-cc1200 - transceiv		<2.5e 	136-960MHz
-cc1175 - trannmit		<2.5e 	136-960MHz - 10pcs ordere - 25eur
+		
+|	|	I/O|		FLASH|	RAM|	BAND|
+|----|----|----|----|----|
+|CC1301	| 	10-30	|	32-128|	16/20|	Sub 1GHz, Wi-Fi|
+|CC1350	|	10-33	|	128KB|	20KB|	Sub-1GHz, Wi-Fi, BLE|
+|CC1352R|	28	|	352KB|	80KB|	Sub-1GHz AND 2.4GHz - DUAL BAND|
+|CC1352P|	26	|	352KB|	80KB|	Sub-1GHz AND 2.4GHz - integrated amplifier|
+|CC2640R2|	10-31	|	128KB|	20KB|	BLE 5, 2.4GHz|
+|||||
+||||
+|CC110L| transmit|		<1.5e|	300-928MHz|
+|CC115L| transmit|		<1e|	300-928MHz|
+|CC1150| transmit|		<2e |	300-900MHz|
+|CC1200| transceiv|		<2.5e| 	136-960MHz|
+|CC1175| trannmit|		<2.5e |	136-960MHz| - 10pcs ordere - 25eur|
 
 ***CC1310 vs CC1350: Can be replacable each other.
 The main advantage of the CC1352 over the CC1350 is the increased memory. 
@@ -27,7 +29,7 @@ With the increased memory you can run multiple stacks (TI15.4 and BLE).
 CC1350 can only run one stack at a time or one full stack and partially 
 another for example, you can run the full TI 15.4 Stack with limited 
 BLE functionality (only beaconing ad not connections)
-```
+
 ### Atmel
 ```
 		I/O 	FREQ	FLASH	EEPORM	RAM	PWM	USARTS
