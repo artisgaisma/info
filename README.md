@@ -49,6 +49,14 @@ SAMD21			48MHz	256KB	NO	32KB 12
 nRF52832
 ```
 
+## Ferrite Bead
+```
+A ferrite bead is a passive device that filters high frequency noise energy 
+over a broad frequency range. It becomes resistive over its intended frequency
+range and dissipates the noise energy in the form of heat. ... This forms
+a low-pass filter network, further reducing the high frequency power supply noise.
+```
+![ferrite bead](https://user-images.githubusercontent.com/51158344/149995203-f96739c8-cf2c-4181-9f2d-f02e2d633dca.PNG)
 
 
 ## RT9193 - LDO with loadswitch
