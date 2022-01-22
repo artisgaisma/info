@@ -1,0 +1,2 @@
+https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
+http://www.technoblogy.com/package_technoblogy_index.json
