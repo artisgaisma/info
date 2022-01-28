@@ -1,3 +1,7 @@
+# Other
+- CDM -> diskpart -> list disk
+
+
 # MCU
 
 `8MHZ - 8,000,000 cycles per second`
