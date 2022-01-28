@@ -72,6 +72,18 @@ a low-pass filter network, further reducing the high frequency power supply nois
 ![RT9193](https://user-images.githubusercontent.com/51158344/138400954-dc9b8b29-33b9-41eb-a0b5-8a2bf2fd1008.JPG)
 
 
+# LoadSwitch
+|part No|Manufact|Price|info|
+|--|--|--|--|
+|AP2280 ||||
+|TPS22919 ||||
+
+![AP2280 layout](https://user-images.githubusercontent.com/51158344/151555980-630980df-248b-420a-88a1-2a4d421371dc.JPG)
+![TPS22919 layout](https://user-images.githubusercontent.com/51158344/151555987-2f2f0e9a-00e3-444b-be1b-9a7c2d70c251.JPG)
+
+
+
+
 # Charger
 
 |part No|Manufact|Price|info|
