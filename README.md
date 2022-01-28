@@ -71,16 +71,6 @@ a low-pass filter network, further reducing the high frequency power supply nois
 
 ![RT9193](https://user-images.githubusercontent.com/51158344/138400954-dc9b8b29-33b9-41eb-a0b5-8a2bf2fd1008.JPG)
 
-## AT2659 - Amplifier
-- GPS LNA Amplifier
-- Similar to MAX2659
-
-## MAX2659ELT - Amplifier
-- 0.80 Eur
-
-![MAX2659](https://user-images.githubusercontent.com/51158344/138034729-88f1791f-ce43-4ffa-9191-df2d7859400a.JPG)
-
-![AT6558 MAX2659](https://user-images.githubusercontent.com/51158344/138398950-6af3a6af-cdb8-4e70-bff7-b37c2414e89a.JPG)
 
 # Charger
 
