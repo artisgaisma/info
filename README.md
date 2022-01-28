@@ -1,23 +1,27 @@
-# MCU`s:
+# MCU
 
-`8MHZ - 8,000,000 cycles per second `int 4bytes -2`147`483`648	to 2`147`483`648 or uint32_t 4 bytes [0-4294967295]`
+`8MHZ - 8,000,000 cycles per second`
 
-`EEPROM write cycle typically takes 3.3 ms to complete`
+```int 4bytes -2`147`483`648	to 2`147`483`648 or uint32_t 4 bytes [0-4294967295]```
+
+`EEPROM`	 write cycle typically takes 	`3.3 m`s to complete
 
 ## TI
-```		
-		I/O		FLASH	RAM	BAND
-CC1301 		10-30		32-128	16/20	Sub 1GHz, Wi-Fi
-CC1350		10-33		128KB	20KB	Sub-1GHz, Wi-Fi, BLE	-	Launchpad ordered
-CC1352R		28		352KB	80KB	Sub-1GHz AND 2.4GHz - DUAL BAND
-CC1352P		26		352KB	80KB	Sub-1GHz AND 2.4GHz - integrated amplifier
-CC2640R2	10-31		128KB	20KB	BLE 5, 2.4GHz
-
-cc110L - transmit		<1.5e	300-928MHz
-cc115L - transmit		<1e	300-928MHz
-cc1150 - transmit		<2e 	300-900MHz
-cc1200 - transceiv		<2.5e 	136-960MHz
-cc1175 - trannmit		<2.5e 	136-960MHz - 10pcs ordere - 25eur
+		
+|	|	I/O|		FLASH|	RAM|	BAND|
+|----|----|----|----|----|
+|CC1301	| 	10-30	|	32-128|	16/20|	Sub 1GHz, Wi-Fi|
+|CC1350	|	10-33	|	128KB|	20KB|	Sub-1GHz, Wi-Fi, BLE|
+|CC1352R|	28	|	352KB|	80KB|	Sub-1GHz AND 2.4GHz - DUAL BAND|
+|CC1352P|	26	|	352KB|	80KB|	Sub-1GHz AND 2.4GHz - integrated amplifier|
+|CC2640R2|	10-31	|	128KB|	20KB|	BLE 5, 2.4GHz|
+|||||
+||||
+|CC110L| transmit|		<1.5e|	300-928MHz|
+|CC115L| transmit|		<1e|	300-928MHz|
+|CC1150| transmit|		<2e |	300-900MHz|
+|CC1200| transceiv|		<2.5e| 	136-960MHz|
+|CC1175| trannmit|		<2.5e |	136-960MHz| - 10pcs ordere - 25eur|
 
 ***CC1310 vs CC1350: Can be replacable each other.
 The main advantage of the CC1352 over the CC1350 is the increased memory. 
@@ -25,7 +29,7 @@ With the increased memory you can run multiple stacks (TI15.4 and BLE).
 CC1350 can only run one stack at a time or one full stack and partially 
 another for example, you can run the full TI 15.4 Stack with limited 
 BLE functionality (only beaconing ad not connections)
-```
+
 ### Atmel
 ```
 		I/O 	FREQ	FLASH	EEPORM	RAM	PWM	USARTS
@@ -44,57 +48,24 @@ SAMD21			48MHz	256KB	NO	32KB 12
 
 nRF52832
 ```
+### LPC11U3x
+32-bit ARM Cortex-M0 
+up to 128 kB flash; 
+upto 12 kB SRAM 
+4 kB EEPROM
+USB device
+USART
 
 
-# GPS
-## External
-### SIM33ELA
-- 14x9.6x2.15
-- 0.5g
-- Acuracy 2.5m
-- 2.8-4.3V
-- 20mA Trancking @3.3V
-- 14uA Backup @3.3V
-- Antenna SMD
-- Similar to CAM-M8Q
-- 14EUR - 2021
+## Ferrite Bead
+```
+A ferrite bead is a passive device that filters high frequency noise energy 
+over a broad frequency range. It becomes resistive over its intended frequency
+range and dissipates the noise energy in the form of heat. ... This forms
+a low-pass filter network, further reducing the high frequency power supply noise.
+```
+![ferrite bead](https://user-images.githubusercontent.com/51158344/149995203-f96739c8-cf2c-4181-9f2d-f02e2d633dca.PNG)
 
-![sim33ela](https://user-images.githubusercontent.com/51158344/137916027-474b5422-38fb-4456-961f-10396157c853.JPG)
-![sim33 sch](https://user-images.githubusercontent.com/51158344/138419999-65183f27-9668-4ec8-950d-526db0a5e6d1.JPG)
-![sim33 sch2](https://user-images.githubusercontent.com/51158344/138420013-870b1c21-981b-46c4-920d-e1e039ae7edf.JPG)
-
-
-### CAM-M8 Q/C
-- 24eEUR
-- 14x9.6x2mm
-- Q - 2.7 V – 3.6 V
-- C - 1.65 V – 3.6 V
-- SMD Antenna
-- GPS, Galileo, GLONASS, BeiDou
-- no iCare
-
-![CAM-M8](https://user-images.githubusercontent.com/51158344/138409612-94f1a5ce-24ca-4498-b1ba-26d95639bb6c.JPG)
-
-# #2 on Timer
-### MAX M8Q
-- GPS Module
-- NO need for external EEPROM chip
-- 8.00EUR Ali
- 
-![max-m8q](https://user-images.githubusercontent.com/51158344/137916210-21ed5eb8-864c-41fd-a550-f15e447ca24a.JPG)
-
-### ATGM336H
-- GPS Module
-- same footprint as MAX-M8
-- 4.00EUR Ali
- 
-![ATGM336H](https://user-images.githubusercontent.com/51158344/138034519-4984bc9c-f3f6-4be6-b0d3-c1f13d73af36.JPG)
-
-## NEO-7M
-- module
-- 5eur 
-
-![NEO7M](https://user-images.githubusercontent.com/51158344/138400514-3a82dfb9-b207-4987-85d8-9d5166c36129.JPG)
 
 ## RT9193 - LDO with loadswitch
 

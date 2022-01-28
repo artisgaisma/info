@@ -27,7 +27,6 @@
 ![L96](https://user-images.githubusercontent.com/51158344/149634546-8bd748f0-82f6-4e4c-9641-865eb0845785.PNG)
 ![L96 board](https://user-images.githubusercontent.com/51158344/149634602-32388d08-a926-4cc8-801b-91ae201e9ae0.PNG)
 
-
 ### CAM-M8 Q/C
 - 24eEUR
 - 14x9.6x2mm
