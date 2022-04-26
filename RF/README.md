@@ -22,7 +22,7 @@
 # CMOSTEK
 ### Melih Karakeller remote 
 - CMT2157A - TX
-- CMT2219A - RX
+- CMT2219A - RX (RFM219SW)
 
 # MIC RF
 
