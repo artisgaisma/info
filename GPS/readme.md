@@ -77,32 +77,3 @@
 
 ![AT6558 MAX2659](https://user-images.githubusercontent.com/51158344/138398950-6af3a6af-cdb8-4e70-bff7-b37c2414e89a.JPG)
 
-
-
-# RF
-## RFM22B
-- stabilaaka frekvence, citeim mēdz loti atskirties
-
-## RFM95
-- 868/915mhz
-- LOS 2km, up to 20km with yagi
-- 4.00eur
-
-## RFM96/98 
-- 315/433mhz
-- alternative DORJI
-- 4.40eur
- 
- ## RFM98
- - Better than RFM22b
- - less mW
- - LOS 40KM
- 
-
-## DRF/SX1272 SX1280
-- Same as RF9x
-
-
-## RFM69
-- LOS 500m
-
