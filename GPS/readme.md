@@ -53,11 +53,19 @@
  
 ![ATGM336H](https://user-images.githubusercontent.com/51158344/138034519-4984bc9c-f3f6-4be6-b0d3-c1f13d73af36.JPG)
 
+![ATGM336H](https://user-images.githubusercontent.com/51158344/167366777-f677d3a8-8a06-43ee-b311-722940f16458.PNG)
+
 ## NEO-7M
 - module
 - 5eur 
 
 ![NEO7M](https://user-images.githubusercontent.com/51158344/138400514-3a82dfb9-b207-4987-85d8-9d5166c36129.JPG)
+
+# MAX2769
+- Universal GPS Receiver IC
+- No External IF SAW or Discrete Filters Required
+
+![MA2769 gps](https://user-images.githubusercontent.com/51158344/167366211-fdd045ac-1295-4621-9812-2966289f7967.PNG)
 
 ## RT9193 - LDO with loadswitch
 
@@ -67,7 +75,7 @@
 - GPS LNA Amplifier
 - Similar to MAX2659
 
-![ATGM336H](https://user-images.githubusercontent.com/51158344/167366777-f677d3a8-8a06-43ee-b311-722940f16458.PNG)
+
 
 - 
 ## MAX2659ELT - Amplifier
@@ -81,8 +89,4 @@
 ![AT6558 MAX2659](https://user-images.githubusercontent.com/51158344/138398950-6af3a6af-cdb8-4e70-bff7-b37c2414e89a.JPG)
 
 
-# MAX2769
-- Universal GPS Receiver IC
-- No External IF SAW or Discrete Filters Required
 
-![MA2769 gps](https://user-images.githubusercontent.com/51158344/167366211-fdd045ac-1295-4621-9812-2966289f7967.PNG)
