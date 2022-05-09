@@ -66,6 +66,9 @@
 ## AT2659 
 - GPS LNA Amplifier
 - Similar to MAX2659
+
+![ATGM336H](https://user-images.githubusercontent.com/51158344/167366777-f677d3a8-8a06-43ee-b311-722940f16458.PNG)
+
 - 
 ## MAX2659ELT - Amplifier
 - 0.80 Eur
@@ -80,3 +83,6 @@
 
 # MAX2769
 - Universal GPS Receiver IC
+- No External IF SAW or Discrete Filters Required
+
+![MA2769 gps](https://user-images.githubusercontent.com/51158344/167366211-fdd045ac-1295-4621-9812-2966289f7967.PNG)
