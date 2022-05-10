@@ -1,3 +1,5 @@
+# for(;;); // Don't proceed, loop forever
+
 # Header Files
 - #include `<file>` - system Header Files
 - #include `"file"` - in same directory your owm header files 
