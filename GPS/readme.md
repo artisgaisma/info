@@ -11,6 +11,13 @@
 - Similar to CAM-M8Q
 - 14EUR - 2021
 
+### PINS
+| PIN  |NAME| description | default |def2|
+| -----|------- | ------------- | -----------|---|
+|7|EINT|IN. LOW - go sleep, HI-wake UP|keep Open|100nF to GND|
+|23| NRES  |IN, Atcive LOW |keep Open|100nF to GND|
+|30|WAKE|OUT, indicates to host, that module is active|keep Open|100nF to GND|
+
 ### TESTED:[2022-05-21]
 - Cold Start - 2-4min to location
 - Ho Start - 2-10sec to location
