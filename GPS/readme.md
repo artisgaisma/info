@@ -11,6 +11,14 @@
 - Similar to CAM-M8Q
 - 14EUR - 2021
 
+### TESTED:[2022-05-21]
+- Cold Start - 2-4min to location
+- Ho Start - 2-10sec to location
+- ON - 25mAh, more than 35mAh pair times on found satelites
+- SLEEP - ~0mAh
+- `Tested in roome with GPS antenna amplfier for rooms`
+- Schematic below used
+
 ![sim33ela](https://user-images.githubusercontent.com/51158344/137916027-474b5422-38fb-4456-961f-10396157c853.JPG)
 ![sim33 sch](https://user-images.githubusercontent.com/51158344/138419999-65183f27-9668-4ec8-950d-526db0a5e6d1.JPG)
 ![sim33 sch2](https://user-images.githubusercontent.com/51158344/138420013-870b1c21-981b-46c4-920d-e1e039ae7edf.JPG)
