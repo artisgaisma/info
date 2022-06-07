@@ -1,4 +1,5 @@
 # GPS
+
 # #1 External
 ### SIM33ELA
 - 14x9.6x2.15
@@ -110,3 +111,11 @@
 - GPS.sendCommand("$PGCMD,33,0*6D");  //Turn off antenna update nuisance data
 - GPS.sendCommand(PMTK_SET_NMEA_OUTPUT_RMCGGA); //Request RMC and GGA Sentences only
 - GPS.sendCommand(PMTK_SET_NMEA_UPDATE_1HZ);
+
+
+# GPS View
+### U-Center
+- https://learn.sparkfun.com/tutorials/getting-started-with-u-center-for-u-blox/all
+
+### Visual GPS - good
+- https://www.visualgps.net/#:~:text=VisualGPSView%20(Freeware)%20incorporates%20many%20advanced,GPS%20NMEA%20and%20GLONASS%20NMEA
