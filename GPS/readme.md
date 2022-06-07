@@ -107,3 +107,6 @@
 
 ![GPS NMEA ](https://user-images.githubusercontent.com/51158344/172376577-d6ba6987-87f7-40fb-8199-f9814604a374.png)
 
+- GPS.sendCommand("$PGCMD,33,0*6D");  //Turn off antenna update nuisance data
+- GPS.sendCommand(PMTK_SET_NMEA_OUTPUT_RMCGGA); //Request RMC and GGA Sentences only
+- GPS.sendCommand(PMTK_SET_NMEA_UPDATE_1HZ);
