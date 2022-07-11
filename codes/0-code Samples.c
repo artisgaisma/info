@@ -23,6 +23,9 @@ This code will yield incorrect results:
 	Use this instead:
 	int input = Serial.parseInt();  // keep other operations outside the constrain function
 	int constrainedInput = constrain(input, minimumValue, maximumValue);
+
+`digitalWrite(ledPin, !digitalRead(ledPin));`
+
 /*=========================================================================================*/
 Serial.write()	-	Writes binary data to the serial port.
 			sent as a byte or series of bytes; 

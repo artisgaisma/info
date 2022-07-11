@@ -1,14 +1,22 @@
 For information on installing libraries, see: http://www.arduino.cc/en/Guide/Libraries
 
-# DISPLAY
+# DISPLAY DRV
 
-## ssd1306.h
-## Adafruit_SSD1306-master
-- https://create.arduino.cc/projecthub/electropeak/beginner-s-guide-to-display-text-image-animation-on-oleds-64c435?ref=similar&ref_id=109663&offset=0
 
-## Adafruit_GFX_Library
-## U8glib-1.19.1
-- OLED
+## https://github.com/adafruit/Adafruit_SSD1306
+## https://create.arduino.cc/projecthub/electropeak/beginner-s-guide-to-display-text-image-animation-on-oleds-64c435?ref=similar&ref_id=109663&offset=0
+
+##https://github.com/cbm80amiga/Arduino_ST7789_Fast - for AVR only
+
+
+
+
+# DISPLAY LIB
+
+## https://github.com/adafruit/Adafruit-GFX-Library
+## https://github.com/olikraus/u8glib
+## https://github.com/olikraus/u8g2
+
 
 ### LCD Assistant
 - http://en.radzio.dxp.pl/bitmap_converter/
