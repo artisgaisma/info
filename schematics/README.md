@@ -5,6 +5,16 @@
 - ![strobo](https://user-images.githubusercontent.com/51158344/138261184-0e231013-a053-4886-8dd4-0c65f157209d.jpg)
 
 
+# MOSFET
+
+- N-channel MOSFET opens when the voltage at its gate in relation to its source exceeds a certain positive threshold.
+
+- P-channel MOSFET to open, there must be a voltage at its gate that is negative relative to its source. 
+
+- You use the n-channel MOSFET on the GND side, the p-channel MOSFET on the positive side of the supply voltage.
+
+- If you use a load that has a coil, such as a motor or an electromagnet, do not forget the obligatory free-wheeling diode.
+
 ### TP4056
 <img src="./TP4056.JPG">
 
