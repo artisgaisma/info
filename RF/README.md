@@ -1,3 +1,11 @@
+# Allowed frequencies
+### EU - 433, 863-870MHz
+### US - 902-928MHz
+### AU - 915-928MHz
+### CN - 470-510, 779-787MHz
+
+`source - https://www.loraantenna.com/lorawan-frequency-plans-by-country-region/`
+
 
 # RF
 |Model|mHZ|info|Price|
