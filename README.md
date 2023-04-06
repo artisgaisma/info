@@ -62,7 +62,7 @@ BLE functionality (only beaconing ad not connections)
 ### Atmel
 ```
 		I/O 	FREQ	FLASH	EEPORM	RAM	PWM	USARTS
-
+AVR128DA32		1-24	128KB	512B	16KB		3	has WatchDogTimer
 Atmega 4808	27	1-20	48KB	256B	6KB	9	3	1.5
 Atmega 4809	41	1-20	48KB	256B	6KB	11	4	1.5
 Atmega 328p	23	1-20	32KB	1KB	2KB	6	1	1.5EUR
