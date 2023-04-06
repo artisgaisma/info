@@ -63,8 +63,10 @@ BLE functionality (only beaconing ad not connections)
 ```
 		I/O 	FREQ	FLASH	EEPORM	RAM	PWM	USARTS
 
+Atmega 4808	27	1-20	48KB	256B	6KB	9	3	1.5
+Atmega 4809	41	1-20	48KB	256B	6KB	11	4	1.5
+Atmega 328p	23	1-20	32KB	1KB	2KB	6	1	1.5EUR
 Atmega 32U4	26	8/16	32KB	1KB	2.5	5?	1
-Atmega 328p	23	1/20	32KB	1KB	2KB	6	1	1.5EUR
 Atmega 1281 	54	8/16	128KB	4KB	8KB	6	2	6EUR
 Atmega 2561	54	8/16	256KB	4KB	8KB	6	2
 Atmega 1280	86	8/16	128KB	4KB	8KB	12	4
@@ -77,6 +79,22 @@ SAMD21			48MHz	256KB	NO	32KB 12
 
 nRF52832
 ```
+### Atmega4808/9
+- MEgaCoreX - https://github.com/MCUdude/MegaCoreX
+### BOD option
+- Brownout detection or BOD for short lets the microcontroller sense the input voltage and shut down if the voltage goes below the brownout setting. Below is a table that shows the available BOD options:
+
+### BOD threshold
+4.3 V
+4.0 V
+3.7 V
+3.3 V
+2.9 V
+2.6 V (default option)
+2.1 V
+1.8 V
+Disabled
+ 
 ### LPC11U3x
 32-bit ARM Cortex-M0 
 up to 128 kB flash; 
