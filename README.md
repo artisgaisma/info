@@ -79,6 +79,11 @@ SAMD21			48MHz	256KB	NO	32KB 12
 
 nRF52832
 ```
+# Atmege BOD levels
+- 4.3V - 100
+- 2.7 - 101
+- 1.8 - 110
+- disabled -111
 ### Atmega4808/9
 - MEgaCoreX - https://github.com/MCUdude/MegaCoreX
 ### BOD option
