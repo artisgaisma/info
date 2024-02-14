@@ -1,3 +1,39 @@
+# Angle Meter 
+### NO1 - BNO055 - Absolute Orientation Sensor- triaxial accelerometer, gyroscope, and magnetometer
+```
+Precise Orientation: The BNO055 is designed for precise orientation measurements and provides Euler angles (roll, pitch, and yaw) with three decimal places.
+Integrated Sensor Fusion: The sensor fusion algorithm is implemented on the chip, reducing the complexity of fusion calculations on the microcontroller.
+High Accuracy: The BNO055 is known for its high accuracy and low drift, making it suitable for applications that require precise orientation data.
+Calibration: It includes an automatic calibration feature for both gyroscope and magnetometer, simplifying the calibration process.
+Arduino Compatibility: There are Arduino libraries available for the BNO055, making it easy to use with Arduino projects.
+```
+
+### NO2 - MPU6050 - Inertial Measurement Unit (IMU) - accelerometer, gyroscope, and magnetometer
+```which combines a 3-axis accelerometer and a 3-axis gyroscope.
+While it doesn't have a built-in magnetometer, you can often integrate a
+separate magnetometer module (like the HMC5883L or its successor, the QMC5883L) for better orientation accuracy
+```
+
+### NO3  - HMC5883L
+```
+is a three-axis digital compass module designed for low-field magnetic sensing with
+a digital interface for applications such as compassing and magnetometry. It is
+commonly used in electronic projects and devices where measuring the Earth's magnetic field is necessary.
+```
+###  ICM-20948 - most precise but better use BNO055
+```
+is designed to provide accurate readings of the Earth's magnetic field
+it requires sensor fusion techniques. The ICM-20948 is a 9-axis sensor,
+which means it includes a 3-axis accelerometer, a 3-axis gyroscope,
+and a 3-axis magnetometer. By combining the data from these sensors and
+applying sensor fusion algorithms, you can obtain accurate orientation
+information, including roll, pitch, and yaw angles.
+```
+
+# Altitude
+
+### NO1 - BMP388
+
 # Other
 - CDM -> diskpart -> list disk
 
