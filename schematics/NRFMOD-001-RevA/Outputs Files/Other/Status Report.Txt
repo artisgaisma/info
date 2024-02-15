@@ -1,0 +1,10 @@
+Output: WireList Netlist
+Type  : WireListNetlist
+From  : Project [nRF52_Intro.PrjPcb]
+   Generated File[nRF52_Intro.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:56:10 PM On 1/18/2023

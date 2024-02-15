@@ -1,0 +1,412 @@
+Wire List
+
+<<< Component List >>>
+12pF                            C1             CAPC1005X55USR
+12pF                            C2             CAPC1005X55USR
+1.0uF                           C3             CAPC1608
+0.1uF                           C4             CAPC0603X33N
+0.1uF                           C5             CAPC0603X33N
+2.2uF                           C6             CAPC1005X55USR
+1uF                             C7             CAPC1005X55USR
+1.0uF                           C8             CAPC1608
+12pF                            C9             CAPC1005X55USR
+12pF                            C10            CAPC1005X55USR
+1.2pF                           C11            CAPC1005X55USR
+1.2pF                           C12            CAPC1005X55USR
+4.7uF                           C13            CAPC1608
+0.1uF                           C14            CAPC0603X33N
+0.1uF                           C15            CAPC0603X33N
+1uF                             C16            CAPC1005X55USR
+1uF                             C17            CAPC1005X55USR
+820pF                           C18            CAPC0603X33N
+FTSH-105-01-F-DV-K              J1             SMTC-FTSH-105-01-L-DV-K_V
+0781710002                      J2             MOLEX_0781710002
+MTSW-107-07-L-D-170             J3             SMTC-MTSW-107-07-X-D-170
+54060392400                     L1             FP-LQW18AN_00-MFG
+MMBT3906,215                    Q1             SOT-23
+MMBT3904,215                    Q2             SOT-23
+100K                            R1             RESC0603X26N
+12K                             R2             RESC0603X26N
+12K                             R3             RESC0603X26N
+12K                             R4             RESC0603X26N
+5.6K                            R5             RESC0603X26N
+100K                            R6             RESC0603X26N
+CRCW040222R0JNED                R7             FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R8             FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R9             FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R10            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R11            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R12            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R13            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R14            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R15            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R16            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R17            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R18            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R19            FP-CRCW0402-e3-MFG
+CRCW040222R0JNED                R20            FP-CRCW0402-e3-MFG
+CAT24C512WI-GT3                 U1             SOIC-8
+NRF52840-CKAA-R7                U2             BGA94C35P10X10_354X361X51
+TPS70933DBVR                    U3             SOT23-5
+FR015L3EZ                       U4             MLP6_2X2_ONS
+BD33HC0MEFJ-ME2                 U5             HTSOP-J8_ROM
+PCF8523TK/1,118                 U9             HVSON80P400X400X100-9N
+32MHz                           Y1             XTAL_2016_ECS_320
+32.768kHz                       Y2             XTAL_3215
+32.768kHz                       Y4             XTAL_3215
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00092] VREAD
+        R4         2       2              PASSIVE     12K
+        R5         2       2              PASSIVE     5.6K
+        U2         A5      P0.03_AIN1     PASSIVE     NRF52840-CKAA-R7
+
+[00091] VDD2_ENABLE
+        U2         G1      P1.07          PASSIVE     NRF52840-CKAA-R7
+        U5         5       EN             PASSIVE     BD33HC0MEFJ-ME2
+
+[00090] VDD2
+        C17        2       2              PASSIVE     1uF
+        U1         8       VCC            POWER       CAT24C512WI-GT3
+        U5         1       VO             PASSIVE     BD33HC0MEFJ-ME2
+        U5         2       FB/Vo_s        PASSIVE     BD33HC0MEFJ-ME2
+
+[00089] VDD1
+        C5         1       1              PASSIVE     0.1uF
+        C6         2       2              PASSIVE     2.2uF
+        C8         1       1              PASSIVE     1.0uF
+        C13        2       2              PASSIVE     4.7uF
+        C14        2       2              PASSIVE     0.1uF
+        C15        2       2              PASSIVE     0.1uF
+        J1         1       1              PASSIVE     FTSH-105-01-F-DV-K
+        U2         B3      VDD_1          PASSIVE     NRF52840-CKAA-R7
+        U2         B8      VDD_2          PASSIVE     NRF52840-CKAA-R7
+        U2         H10     VDD_3          PASSIVE     NRF52840-CKAA-R7
+        U2         J10     VDDH           PASSIVE     NRF52840-CKAA-R7
+        U2         K1      VDD_4          PASSIVE     NRF52840-CKAA-R7
+        U2         K5      VDD_5          PASSIVE     NRF52840-CKAA-R7
+        U3         5       OUT            OUTPUT      TPS70933DBVR
+        U9         8       VDD            PASSIVE     PCF8523TK/1,118
+
+[00088] VBAT
+        C7         2       2              PASSIVE     1uF
+        C16        2       2              PASSIVE     1uF
+        J1         7       7              PASSIVE     FTSH-105-01-F-DV-K
+        J2         1       1              PASSIVE     0781710002
+        Q1         2       E              PASSIVE     MMBT3906,215
+        R1         2       2              PASSIVE     100K
+        U3         1       IN             INPUT       TPS70933DBVR
+        U3         3       EN             PASSIVE     TPS70933DBVR
+        U4         3       CTL            PASSIVE     FR015L3EZ
+        U5         8       VCC            PASSIVE     BD33HC0MEFJ-ME2
+        U9         3       VBAT           PASSIVE     PCF8523TK/1,118
+
+[00087] TRIGGERVREAD
+        R3         1       1              PASSIVE     12K
+        U2         F3      P1.03          PASSIVE     NRF52840-CKAA-R7
+
+[00086] SWDIO
+        J1         2       2              PASSIVE     FTSH-105-01-F-DV-K
+        U2         J2      SWDIO          PASSIVE     NRF52840-CKAA-R7
+
+[00085] SWDCLK
+        J1         6       6              PASSIVE     FTSH-105-01-F-DV-K
+        U2         H2      SWDCLK         PASSIVE     NRF52840-CKAA-R7
+
+[00084] SSL
+        R13        1       1              PASSIVE     CRCW040222R0JNED
+        U2         C7      P0.29_AIN5     PASSIVE     NRF52840-CKAA-R7
+
+[00083] SDA
+        U1         5       SDA            PASSIVE     CAT24C512WI-GT3
+        U2         G3      P1.02          PASSIVE     NRF52840-CKAA-R7
+        U9         5       SDA            PASSIVE     PCF8523TK/1,118
+
+[00082] SCL
+        U1         6       SCL            PASSIVE     CAT24C512WI-GT3
+        U2         G2      P1.05          PASSIVE     NRF52840-CKAA-R7
+        U9         6       SCL            PASSIVE     PCF8523TK/1,118
+
+[00081] SCK
+        R7         1       1              PASSIVE     CRCW040222R0JNED
+        U2         B5      P1.14          PASSIVE     NRF52840-CKAA-R7
+
+[00080] NRF_TXD
+        U2         G10     P0.12_TRACEDATAPASSIVE     NRF52840-CKAA-R7
+
+[00079] NRF_STATUS
+        U2         A7      P0.30_AIN6     PASSIVE     NRF52840-CKAA-R7
+
+[00078] NRF_RXD
+        U2         F10     P1.09_TRACEDATAPASSIVE     NRF52840-CKAA-R7
+
+[00077] NRF_RESET_N
+        U2         A4      P1.13          PASSIVE     NRF52840-CKAA-R7
+
+[00076] NRF_PWRKEY
+        U2         A3      P1.11          PASSIVE     NRF52840-CKAA-R7
+
+[00075] NRF_PSM_IND
+        U2         B4      P1.10          PASSIVE     NRF52840-CKAA-R7
+
+[00074] NRF_AP_READY
+        U2         A6      P0.28_AIN4     PASSIVE     NRF52840-CKAA-R7
+
+[00073] nRESET
+        J1         10      10             PASSIVE     FTSH-105-01-F-DV-K
+        U2         K6      P0.18_NRESET   PASSIVE     NRF52840-CKAA-R7
+
+[00072] NetU9_2
+        U9         2       OSCO           PASSIVE     PCF8523TK/1,118
+        Y4         1       I/O            PASSIVE     32.768kHz
+
+[00071] NetU9_1
+        U9         1       OSCI           PASSIVE     PCF8523TK/1,118
+        Y4         2       O/I            PASSIVE     32.768kHz
+
+[00044] NetQ2_3
+        Q2         3       C              PASSIVE     MMBT3904,215
+        R2         1       1              PASSIVE     12K
+
+[00043] NetQ2_1
+        Q2         1       B              PASSIVE     MMBT3904,215
+        R3         2       2              PASSIVE     12K
+        R6         2       2              PASSIVE     100K
+
+[00042] NetQ1_3
+        Q1         3       C              PASSIVE     MMBT3906,215
+        R4         1       1              PASSIVE     12K
+
+[00041] NetQ1_1
+        Q1         1       B              PASSIVE     MMBT3906,215
+        R1         1       1              PASSIVE     100K
+        R2         2       2              PASSIVE     12K
+
+[00040] NetJ3_14
+        J3         14      14             PASSIVE     MTSW-107-07-L-D-170
+        R20        1       1              PASSIVE     CRCW040222R0JNED
+
+[00039] NetJ3_13
+        J3         13      13             PASSIVE     MTSW-107-07-L-D-170
+        R19        2       2              PASSIVE     CRCW040222R0JNED
+
+[00038] NetJ3_12
+        J3         12      12             PASSIVE     MTSW-107-07-L-D-170
+        R18        1       1              PASSIVE     CRCW040222R0JNED
+
+[00037] NetJ3_11
+        J3         11      11             PASSIVE     MTSW-107-07-L-D-170
+        R17        2       2              PASSIVE     CRCW040222R0JNED
+
+[00036] NetJ3_10
+        J3         10      10             PASSIVE     MTSW-107-07-L-D-170
+        R16        1       1              PASSIVE     CRCW040222R0JNED
+
+[00035] NetJ3_9
+        J3         9       9              PASSIVE     MTSW-107-07-L-D-170
+        R15        2       2              PASSIVE     CRCW040222R0JNED
+
+[00034] NetJ3_8
+        J3         8       8              PASSIVE     MTSW-107-07-L-D-170
+        R14        1       1              PASSIVE     CRCW040222R0JNED
+
+[00033] NetJ3_7
+        J3         7       7              PASSIVE     MTSW-107-07-L-D-170
+        R13        2       2              PASSIVE     CRCW040222R0JNED
+
+[00032] NetJ3_6
+        J3         6       6              PASSIVE     MTSW-107-07-L-D-170
+        R12        1       1              PASSIVE     CRCW040222R0JNED
+
+[00031] NetJ3_5
+        J3         5       5              PASSIVE     MTSW-107-07-L-D-170
+        R11        2       2              PASSIVE     CRCW040222R0JNED
+
+[00030] NetJ3_4
+        J3         4       4              PASSIVE     MTSW-107-07-L-D-170
+        R10        1       1              PASSIVE     CRCW040222R0JNED
+
+[00029] NetJ3_3
+        J3         3       3              PASSIVE     MTSW-107-07-L-D-170
+        R9         2       2              PASSIVE     CRCW040222R0JNED
+
+[00028] NetJ3_2
+        J3         2       2              PASSIVE     MTSW-107-07-L-D-170
+        R8         1       1              PASSIVE     CRCW040222R0JNED
+
+[00027] NetJ3_1
+        J3         1       1              PASSIVE     MTSW-107-07-L-D-170
+        R7         2       2              PASSIVE     CRCW040222R0JNED
+
+[00024] NetJ2_2
+        J2         2       2              PASSIVE     0781710002
+        U4         1       NEG            PASSIVE     FR015L3EZ
+        U4         2       NEG            PASSIVE     FR015L3EZ
+        U4         5       NEG            PASSIVE     FR015L3EZ
+        U4         6       NEG            PASSIVE     FR015L3EZ
+
+[00023] NetC18_1
+        C18        1       1              PASSIVE     820pF
+        U2         F2      DEC5           PASSIVE     NRF52840-CKAA-R7
+
+[00022] NetC12_2
+        C12        2       2              PASSIVE     1.2pF
+        L1         2       2              PASSIVE     54060392400
+        U2         E1      ANT            PASSIVE     NRF52840-CKAA-R7
+
+[00021] NetC10_1
+        C10        1       1              PASSIVE     12pF
+        U2         B10     P0.01_XL2      PASSIVE     NRF52840-CKAA-R7
+        Y2         1       I/O            PASSIVE     32.768kHz
+
+[00020] NetC9_1
+        C9         1       1              PASSIVE     12pF
+        U2         B9      P0.00_XL1      PASSIVE     NRF52840-CKAA-R7
+        Y2         2       O/I            PASSIVE     32.768kHz
+
+[00019] NetC4_1
+        C4         1       1              PASSIVE     0.1uF
+        U2         A10     DEC1           PASSIVE     NRF52840-CKAA-R7
+
+[00018] NetC3_1
+        C3         1       1              PASSIVE     1.0uF
+        U2         A8      DEC4           PASSIVE     NRF52840-CKAA-R7
+        U2         C2      DEC6           PASSIVE     NRF52840-CKAA-R7
+
+[00017] NetC2_1
+        C2         1       1              PASSIVE     12pF
+        U2         A2      XC2            PASSIVE     NRF52840-CKAA-R7
+        Y1         3       O/I            PASSIVE     32MHz
+
+[00016] NetC1_1
+        C1         1       1              PASSIVE     12pF
+        U2         A1      XC1            PASSIVE     NRF52840-CKAA-R7
+        Y1         1       I/O            PASSIVE     32MHz
+
+[00015] MOSI
+        R9         1       1              PASSIVE     CRCW040222R0JNED
+        U2         C5      P1.12          PASSIVE     NRF52840-CKAA-R7
+
+[00014] MISO
+        R11        1       1              PASSIVE     CRCW040222R0JNED
+        U2         C6      P1.15          PASSIVE     NRF52840-CKAA-R7
+
+[00013] IO11
+        R20        2       2              PASSIVE     CRCW040222R0JNED
+        U2         F9      P0.07_TRACECLK PASSIVE     NRF52840-CKAA-R7
+
+[00012] IO10
+        R18        2       2              PASSIVE     CRCW040222R0JNED
+        U2         K7      P0.15          PASSIVE     NRF52840-CKAA-R7
+
+[00011] IO9
+        R16        2       2              PASSIVE     CRCW040222R0JNED
+        U2         K3      P0.22          PASSIVE     NRF52840-CKAA-R7
+
+[00010] IO8
+        R14        2       2              PASSIVE     CRCW040222R0JNED
+        U2         K2      P0.25          PASSIVE     NRF52840-CKAA-R7
+
+[00009] IO7
+        R12        2       2              PASSIVE     CRCW040222R0JNED
+        U2         E9      P0.06          PASSIVE     NRF52840-CKAA-R7
+
+[00008] IO6
+        R10        2       2              PASSIVE     CRCW040222R0JNED
+        U2         E3      P1.06          PASSIVE     NRF52840-CKAA-R7
+
+[00007] IO5
+        R8         2       2              PASSIVE     CRCW040222R0JNED
+        U2         E2      P0.10_NFC2     PASSIVE     NRF52840-CKAA-R7
+
+[00006] IO4
+        R19        1       1              PASSIVE     CRCW040222R0JNED
+        U2         D9      P0.27          PASSIVE     NRF52840-CKAA-R7
+
+[00005] IO3
+        R17        1       1              PASSIVE     CRCW040222R0JNED
+        U2         C9      P0.26          PASSIVE     NRF52840-CKAA-R7
+
+[00004] IO2
+        R15        1       1              PASSIVE     CRCW040222R0JNED
+        U2         C8      P0.31_AIN7     PASSIVE     NRF52840-CKAA-R7
+
+[00003] GND
+        C1         2       2              PASSIVE     12pF
+        C2         2       2              PASSIVE     12pF
+        C3         2       2              PASSIVE     1.0uF
+        C4         2       2              PASSIVE     0.1uF
+        C5         2       2              PASSIVE     0.1uF
+        C6         1       1              PASSIVE     2.2uF
+        C7         1       1              PASSIVE     1uF
+        C8         2       2              PASSIVE     1.0uF
+        C9         2       2              PASSIVE     12pF
+        C10        2       2              PASSIVE     12pF
+        C11        1       1              PASSIVE     1.2pF
+        C12        1       1              PASSIVE     1.2pF
+        C13        1       1              PASSIVE     4.7uF
+        C14        1       1              PASSIVE     0.1uF
+        C15        1       1              PASSIVE     0.1uF
+        C16        1       1              PASSIVE     1uF
+        C17        1       1              PASSIVE     1uF
+        C18        2       2              PASSIVE     820pF
+        J1         3       3              PASSIVE     FTSH-105-01-F-DV-K
+        J1         4       4              PASSIVE     FTSH-105-01-F-DV-K
+        J1         5       5              PASSIVE     FTSH-105-01-F-DV-K
+        J1         8       8              PASSIVE     FTSH-105-01-F-DV-K
+        J1         9       9              PASSIVE     FTSH-105-01-F-DV-K
+        Q2         2       E              PASSIVE     MMBT3904,215
+        R5         1       1              PASSIVE     5.6K
+        R6         1       1              PASSIVE     100K
+        U1         1       A0             I/O         CAT24C512WI-GT3
+        U1         2       A1             I/O         CAT24C512WI-GT3
+        U1         3       A3             I/O         CAT24C512WI-GT3
+        U1         4       VSS            PASSIVE     CAT24C512WI-GT3
+        U1         7       WP             PASSIVE     CAT24C512WI-GT3
+        U2         B7      VSS_1          PASSIVE     NRF52840-CKAA-R7
+        U2         C1      VSS_PA         PASSIVE     NRF52840-CKAA-R7
+        U2         C4      VSS_2          PASSIVE     NRF52840-CKAA-R7
+        U2         D3      VSS_3          PASSIVE     NRF52840-CKAA-R7
+        U2         D4      VSS_4          PASSIVE     NRF52840-CKAA-R7
+        U2         D5      VSS_5          PASSIVE     NRF52840-CKAA-R7
+        U2         D6      VSS_6          PASSIVE     NRF52840-CKAA-R7
+        U2         D7      VSS_7          PASSIVE     NRF52840-CKAA-R7
+        U2         D8      VSS_8          PASSIVE     NRF52840-CKAA-R7
+        U2         E4      VSS_9          PASSIVE     NRF52840-CKAA-R7
+        U2         E5      VSS_10         PASSIVE     NRF52840-CKAA-R7
+        U2         E6      VSS_11         PASSIVE     NRF52840-CKAA-R7
+        U2         E7      VSS_12         PASSIVE     NRF52840-CKAA-R7
+        U2         E8      VSS_13         PASSIVE     NRF52840-CKAA-R7
+        U2         F4      VSS_14         PASSIVE     NRF52840-CKAA-R7
+        U2         F5      VSS_15         PASSIVE     NRF52840-CKAA-R7
+        U2         F6      VSS_16         PASSIVE     NRF52840-CKAA-R7
+        U2         F7      VSS_17         PASSIVE     NRF52840-CKAA-R7
+        U2         F8      VSS_18         PASSIVE     NRF52840-CKAA-R7
+        U2         G4      VSS_19         PASSIVE     NRF52840-CKAA-R7
+        U2         G5      VSS_20         PASSIVE     NRF52840-CKAA-R7
+        U2         G6      VSS_21         PASSIVE     NRF52840-CKAA-R7
+        U2         G7      VSS_22         PASSIVE     NRF52840-CKAA-R7
+        U2         G8      VSS_23         PASSIVE     NRF52840-CKAA-R7
+        U2         J9      VBUS           PASSIVE     NRF52840-CKAA-R7
+        U2         K10     VSS_24         PASSIVE     NRF52840-CKAA-R7
+        U3         2       GND            POWER       TPS70933DBVR
+        U4         4       POS            PASSIVE     FR015L3EZ
+        U4         7       EPAD           PASSIVE     FR015L3EZ
+        U5         3       GND            PASSIVE     BD33HC0MEFJ-ME2
+        U5         9       EPAD           PASSIVE     BD33HC0MEFJ-ME2
+        U9         4       VSS            PASSIVE     PCF8523TK/1,118
+        U9         9       EPAD           PASSIVE     PCF8523TK/1,118
+        Y1         2       GND            PASSIVE     32MHz
+        Y1         4       GND            PASSIVE     32MHz
+
+[00002] ANT
+        C11        2       2              PASSIVE     1.2pF
+        L1         1       1              PASSIVE     54060392400
+
+[00001] ALARM
+        U2         G9      P1.08          PASSIVE     NRF52840-CKAA-R7
+        U9         7       \INT1\/CLKOUT  PASSIVE     PCF8523TK/1,118
+

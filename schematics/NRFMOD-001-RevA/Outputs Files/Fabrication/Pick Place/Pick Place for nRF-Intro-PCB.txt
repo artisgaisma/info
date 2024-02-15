@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+C:\Users\Zachariah\Documents\NWES\Product Data\Uploaded\NRFMOD-001\Outputs Files\Fabrication\Pick Place\Pick Place for nRF-Intro-PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/01/23
+Time:       15:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer       Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                                                                 
+R20        CRCW040222R0JNED    BottomLayer FP-CRCW0402-e3-MFG        5932.807      1898.000      270      "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R19        CRCW040222R0JNED    TopLayer    FP-CRCW0402-e3-MFG        6040.656      1984.201      90       "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R18        CRCW040222R0JNED    BottomLayer FP-CRCW0402-e3-MFG        5832.807      1898.000      270      "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R17        CRCW040222R0JNED    TopLayer    FP-CRCW0402-e3-MFG        5830.344      1898.000      90       "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R16        CRCW040222R0JNED    BottomLayer FP-CRCW0402-e3-MFG        5729.943      1898.000      270      "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R15        CRCW040222R0JNED    TopLayer    FP-CRCW0402-e3-MFG        5730.449      1898.000      90       "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R14        CRCW040222R0JNED    BottomLayer FP-CRCW0402-e3-MFG        5631.595      1898.000      270      "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R13        CRCW040222R0JNED    TopLayer    FP-CRCW0402-e3-MFG        5633.506      1898.974      90       "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R12        CRCW040222R0JNED    BottomLayer FP-CRCW0402-e3-MFG        5529.705      1898.000      270      "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R11        CRCW040222R0JNED    TopLayer    FP-CRCW0402-e3-MFG        5532.709      1897.883      90       "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R10        CRCW040222R0JNED    BottomLayer FP-CRCW0402-e3-MFG        5434.934      1898.000      270      "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R9         CRCW040222R0JNED    TopLayer    FP-CRCW0402-e3-MFG        5436.126      1896.825      90       "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R8         CRCW040222R0JNED    BottomLayer FP-CRCW0402-e3-MFG        5334.464      1898.000      270      "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+R7         CRCW040222R0JNED    TopLayer    FP-CRCW0402-e3-MFG        5333.276      1898.000      90       "RES Thick Film, 22O, 5%, 0.063W, 200ppm/°C, 0402"                                                          
+J3         MTSW-107-07-L-D-170 TopLayer    SMTC-MTSW-107-07-X-D-170  5632.807      2043.329      0        "Modified .025" SQ Post Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 14-Pin, Male, RoHS" 
+J2         0781710002          BottomLayer MOLEX_0781710002          6283.623      1589.438      0        "Pico-EZmate Wire-to-Board Header Vertical Housing Height 1.55mm with Side Friction Locks 2 Circuits"       
+Y4         32.768kHz           BottomLayer XTAL_3215                 6120.000      1505.000      90       "Crystal 0.032768MHz ±20ppm (Tol) 7pF Flexural 70000Ohm 2-Pin CSMD T/R"                                     
+U9         PCF8523TK/1,118     BottomLayer HVSON80P400X400X100-9N    5960.000      1470.000      180      "PCF8523 Series 5.5 V 1 Mbps I2C Interface Real Time Clock / Calendar - HVSON-8"                            
+C12        1.2pF               TopLayer    CAPC1005X55USR            5698.559      1482.620      0        "CAP CER 1.2PF 50V C0G/NP0 0402"                                                                            
+C11        1.2pF               TopLayer    CAPC1005X55USR            5695.801      1338.079      0        "CAP CER 1.2PF 50V C0G/NP0 0402"                                                                            
+Y2         32.768kHz           TopLayer    XTAL_3215                 5550.104      1721.089      180      "ABS07 Series 3.2 x 1.5 x 0.9 mm 32.768 KHz ±10ppm 9 pF -40 to 85°C Crystal SMT"                            
+Y1         32MHz               TopLayer    XTAL_2016_ECS_320         5555.773      1444.515      180      "Crystal 32MHz 8pF ±10ppm ±10ppm 4-Pin Miniature CSMD T/R"                                                  
+U2         NRF52840-CKAA-R7    TopLayer    BGA94C35P10X10_354X361X51 5724.434      1587.979      90       "Advanced Bluetooth 5, Thread and Zigbee multiprotocol SoC"                                                 
+U1         CAT24C512WI-GT3     TopLayer    SOIC-8                    5968.685      1782.785      270      "IC EEPROM 512KBIT 1MHZ 8SOIC"                                                                              
+U5         BD33HC0MEFJ-ME2     TopLayer    HTSOP-J8_ROM              5968.685      1450.785      270      "LDO Regulator Pos 3.3V 1A Automotive 8-Pin HTSOP-J EP T/R"                                                 
+U3         TPS70933DBVR        TopLayer    SOT23-5                   6283.024      1730.793      90       "Linear Voltage Regulator IC Positive Fixed 1 Output 3.3V 150mA SOT-23-5"                                   
+U4         FR015L3EZ           TopLayer    MLP6_2X2_ONS              6275.734      1566.680      0        "LOW SIDE REV BIAS POLAR PROTECT"                                                                           
+R6         100K                TopLayer    RESC0603X26N              6165.104      1876.089      90       "RES 100K OHM 1% 1/20W 0201"                                                                                
+R1         100K                TopLayer    RESC0603X26N              6405.104      1826.089      0        "RES 100K OHM 1% 1/20W 0201"                                                                                
+R3         12K                 TopLayer    RESC0603X26N              6125.104      1876.089      90       "RES 12K OHM 1% 1/20W 0201"                                                                                 
+R2         12K                 TopLayer    RESC0603X26N              6345.104      1826.089      0        "RES 12K OHM 1% 1/20W 0201"                                                                                 
+R5         5.6K                TopLayer    RESC0603X26N              5558.549      1568.379      270      "RES 5.6K OHM 1% 1/20W 0201"                                                                                
+R4         12K                 TopLayer    RESC0603X26N              5585.540      1568.379      270      "RES 12K OHM 1% 1/20W 0201"                                                                                 
+Q2         MMBT3904,215        TopLayer    SOT-23                    6262.899      1876.089      270      "TRANS NPN 40V 0.2A SOT23"                                                                                  
+Q1         MMBT3906,215        TopLayer    SOT-23                    6405.104      1921.089      0        "TRANS PNP 40V 0.2A TO236AB"                                                                                
+L1         54060392400         TopLayer    FP-LQW18AN_00-MFG         5714.677      1411.890      90       "Fixed Inductors RF Chip Inductor SMD 3.9nH 0603 10% Tol"                                                   
+J1         FTSH-105-01-F-DV-K  TopLayer    SMTC-FTSH-105-01-L-DV-K_V 6530.000      1515.000      270      "Male Header, Pitch 1.27 mm, 2 x 5 Position, Height 6.12 mm, RoHS, Tube"                                    
+C16        1uF                 TopLayer    CAPC1005X55USR            6425.370      1711.089      270      "CAP CER 1UF 25V X5R 0402"                                                                                  
+C17        1uF                 TopLayer    CAPC1005X55USR            6023.685      1620.785      0        "CAP CER 1UF 25V X5R 0402"                                                                                  
+C6         2.2uF               TopLayer    CAPC1005X55USR            6155.104      1711.089      270      "CAP CER 2.2UF 25V X5R 0402"                                                                                
+C7         1uF                 TopLayer    CAPC1005X55USR            6385.370      1711.089      270      "CAP CER 1UF 25V X5R 0402"                                                                                  
+C14        0.1uF               TopLayer    CAPC0603X33N              5777.946      1688.530      180      "CAP CER 0.1UF 6.3V X7R 0201"                                                                               
+C5         0.1uF               TopLayer    CAPC0603X33N              5700.104      1726.089      270      "CAP CER 0.1UF 6.3V X7R 0201"                                                                               
+C3         1.0uF               TopLayer    CAPC1608                  5514.266      1593.958      270      "CAP CER 1UF 16V X7R 0603"                                                                                  
+C18        820pF               TopLayer    CAPC0603X33N              5830.104      1460.152      270      "CAP CER 820PF 25V X7R 0201"                                                                                
+C15        0.1uF               TopLayer    CAPC0603X33N              5734.167      1691.089      0        "CAP CER 0.1UF 6.3V X7R 0201"                                                                               
+C13        4.7uF               TopLayer    CAPC1608                  5780.104      1801.089      180      "CAP CER 4.7UF 6.3V X7R 0603"                                                                               
+C8         1.0uF               TopLayer    CAPC1608                  5778.104      1741.089      0        "CAP CER 1UF 16V X7R 0603"                                                                                  
+C4         0.1uF               TopLayer    CAPC0603X33N              5606.431      1647.645      180      "CAP CER 0.1UF 6.3V X7R 0201"                                                                               
+C10        12pF                TopLayer    CAPC1005X55USR            5655.104      1731.089      90       "CAP CER 12PF 50V C0G/NP0 0402"                                                                             
+C9         12pF                TopLayer    CAPC1005X55USR            5445.104      1731.089      90       "CAP CER 12PF 50V C0G/NP0 0402"                                                                             
+C2         12pF                TopLayer    CAPC1005X55USR            5555.104      1521.089      180      "CAP CER 12PF 50V C0G/NP0 0402"                                                                             
+C1         12pF                TopLayer    CAPC1005X55USR            5555.104      1366.089      180      "CAP CER 12PF 50V C0G/NP0 0402"                                                                             
