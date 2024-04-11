@@ -59,10 +59,13 @@ void loop() {
 http://drazzy.com/package_drazzy.com_index.json
 http://www.technoblogy.com/package_technoblogy_index.json
 http://arduino.esp8266.com/versions/2.3.0/package_esp8266com_index.json
+https://raw.githubusercontent.com/Lauszus/Sanguino/master/package_lauszus_sanguino_index.json
 https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
 https://raw.githubusercontent.com/sparkfun/Arduino_Boards/nrf5/IDE_Board_Manager/package_sparkfun_index.json
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json
+
+
 
 ```
 # Precise Servo
