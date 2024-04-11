@@ -1,20 +1,13 @@
 # 328PB bootloader:
+- Install MiniCore
 ```
-Install ATmega328PB support in Arduino IDE:
-
-Open the Arduino IDE.
 Go to File > Preferences.
 In the "Additional Board Manager URLs" field, add the URL: https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json
-Click "OK" to close the Preferences window.
 Go to Tools > Board > Boards Manager...
 Search for "MiniCore" by MCUdude and install it.
-Select the proper board:
-
-Go to Tools > Board and select "ATmega328PB".
-Select the programmer:
-
-Go to Tools > Programmer and select "USBtinyISP".
 ```
+- Compile code - export hex file
+- Use AVR Dudes to upload code
 # for(;;); // Don't proceed, loop forever
 
 # Header Files
