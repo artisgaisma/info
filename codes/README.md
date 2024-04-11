@@ -1,3 +1,30 @@
+# 328PB bootloader:
+```
+Prepare your ATmega328PB chip: Make sure your ATmega328PB chip is properly connected to power (VCC and GND) and has a clock source (internal or external crystal). Also, ensure that the reset pin is connected properly.
+
+Install USBtiny support in Arduino IDE:
+
+Open the Arduino IDE.
+Go to File > Preferences.
+In the "Additional Board Manager URLs" field, add the URL: https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+Click "OK" to close the Preferences window.
+Go to Tools > Board > Boards Manager...
+Search for "attiny" and install "ATTinyCore" by David A. Mellis.
+Select the proper board: Go to Tools > Board and select "ATmega328PB".
+
+Select the programmer: Go to Tools > Programmer and select "USBtinyISP".
+
+Write your code: Write your code in the Arduino IDE as you normally would.
+
+Upload the code:
+
+Connect your USBtiny programmer to your computer via USB.
+Connect the USBtiny programmer to the ICSP pins (MISO, MOSI, SCK, RST, VCC, GND) of your ATmega328PB chip.
+Make sure your ATmega328PB chip is powered.
+Click the Upload button in the Arduino IDE (the right arrow icon).
+The IDE should compile your code and attempt to upload it to your ATmega328PB chip using the USBtiny programmer.
+Verify: After the upload process is complete, you should see a "Done uploading" message in the Arduino IDE. Verify that your code is running correctly on the ATmega328PB chip.
+```
 # for(;;); // Don't proceed, loop forever
 
 # Header Files
