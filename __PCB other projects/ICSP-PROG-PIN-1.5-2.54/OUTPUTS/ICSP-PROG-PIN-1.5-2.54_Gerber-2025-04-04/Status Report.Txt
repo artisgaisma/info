@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ICSP-PROG-PIN-1.5-2.54.PcbDoc]
+   Generated File[ICSP-PROG-PIN-1.5-2.54.TXT]
+   Generated File[ICSP-PROG-PIN-1.5-2.54.LDP]
+   Generated File[ICSP-PROG-PIN-1.5-2.54.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 08:51:10 On 04/04/2025
