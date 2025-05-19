@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\KONI\GIT\info\__PCB other projects\ICSP-PROG-PIN-1.5-2.54\OUTPUTS\ICSP-PROG-PIN-1.5-2.54_Gerber-2025-05-14\Pick Place\Pick Place for ICSP-PROG-PIN-1.5-2.54.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/05/25
+Time:       18:18
+Revision:   afb6784552ebbc3c7b1fc5c6304555d0b0890246
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"ICSP1.5mm 2x3","ICSP pad","TopLayer","ICSP_prg_PAD_1.5mm","9.9500","31.0000","90","PAD prog"
+"ICSP1.5mm1x6","ICSP pad","TopLayer","ICSP_prg_PAD_1.5mm_1Line","10.0000","1.7000","0","PAD prog"
+"ICSP2.54mm 2x3","ICSP pad","TopLayer","ICSP_prg_PIN_2.54mm","10.0000","12.2300","90","PAD prog"

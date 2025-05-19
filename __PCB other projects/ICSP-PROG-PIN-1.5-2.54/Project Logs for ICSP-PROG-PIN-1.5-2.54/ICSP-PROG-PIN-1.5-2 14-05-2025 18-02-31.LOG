@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=ICSP1.5 NewDesignator=ICSP1.5mm1x6
+Change Component Designator: OldDesignator=ICSP2.54 NewDesignator=ICSP2.54mm 2x3
+Added Component: Designator=ICSP1.5mm 2x3(ICSP prg PAD 1.5mm)
+Added Pin To Net: NetName=MSIO Pin=ICSP1.5mm 2x3-1
+Added Pin To Net: NetName=VIN Pin=ICSP1.5mm 2x3-2
+Added Pin To Net: NetName=SCK Pin=ICSP1.5mm 2x3-3
+Added Pin To Net: NetName=MOSI Pin=ICSP1.5mm 2x3-4
+Added Pin To Net: NetName=RESET Pin=ICSP1.5mm 2x3-5
+Added Pin To Net: NetName=GND Pin=ICSP1.5mm 2x3-6
+Added Member To Class: ClassName=ICSP-PROG-PIN-1.5-2.54 Member=Component ICSP1.5mm 2x3 ICSP pad

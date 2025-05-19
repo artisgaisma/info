@@ -2,60 +2,107 @@
 FileName = ICSP-PROG-PIN-1.5-2.54.GBR
 AutoAperture = True
 *************************************************************
-Generating : TOP
-      File : ICSP-PROG-PIN-1.5-2.54.GTL
-
-    Adding Layer      : TOP
+Generating : M2
+      File : ICSP-PROG-PIN-1.5-2.54.GM2
 
     Adding Layer      : M2
+
+    Adding Layer      : M2
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ICSP-PROG-PIN-1.5-2.54.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : M2
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ICSP-PROG-PIN-1.5-2.54.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : M2
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ICSP-PROG-PIN-1.5-2.54.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : M2
+
+    Adding Layer      : BOT
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
 *************************************************************
 
 *************************************************************
-Generating : BOT
-      File : ICSP-PROG-PIN-1.5-2.54.GBL
+Generating : Solder Side
+      File : ICSP-PROG-PIN-1.5-2.54.GBS
 
-    Adding Layer      : BOT
+    Adding Layer      : Solder Side
 
     Adding Layer      : M2
+
+    Adding Layer      : BOT
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D10
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ICSP-PROG-PIN-1.5-2.54.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : M2
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
     D14
     D15
     D16
     D17
     D18
     D19
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : ICSP-PROG-PIN-1.5-2.54.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : M2
-
-
-Used DCodes :
-    D14
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -74,110 +121,69 @@ Generating : Top Paste
 Used DCodes :
     D10
     D11
-    D14
+    D12
+    D13
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : ICSP-PROG-PIN-1.5-2.54.GTS
+Generating : Top Overlay
+      File : ICSP-PROG-PIN-1.5-2.54.GTO
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Top Overlay
 
     Adding Layer      : M2
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : BOT
+      File : ICSP-PROG-PIN-1.5-2.54.GBL
+
+    Adding Layer      : BOT
+
+    Adding Layer      : M2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : TOP
+      File : ICSP-PROG-PIN-1.5-2.54.GTL
 
     Adding Layer      : TOP
 
+    Adding Layer      : M2
+
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D14
-    D20
-    D21
-    D22
+    D10
+    D11
+    D12
+    D13
     D23
     D24
     D25
     D26
     D27
-*************************************************************
-
-*************************************************************
-Generating : Solder Side
-      File : ICSP-PROG-PIN-1.5-2.54.GBS
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : M2
-
-    Adding Layer      : BOT
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D23
-    D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : ICSP-PROG-PIN-1.5-2.54.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : M2
-
-    Adding Layer      : BOT
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : ICSP-PROG-PIN-1.5-2.54.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : M2
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : ICSP-PROG-PIN-1.5-2.54.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-    Adding Layer      : M2
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : M2
-      File : ICSP-PROG-PIN-1.5-2.54.GM2
-
-    Adding Layer      : M2
-
-    Adding Layer      : M2
-
-
-Used DCodes :
-    D14
+    D28
+    D29
+    D30
 *************************************************************
 
 *************************************************************
@@ -192,9 +198,9 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D14
-    D28
-    D29
+    D10
+    D31
+    D32
 *************************************************************
 
 *************************************************************
@@ -209,7 +215,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D14
-    D28
+    D10
+    D31
 *************************************************************
 
