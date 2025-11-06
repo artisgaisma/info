@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\KONI\GIT\info\__PCB other projects\JTAG_POGOPIN\OUTPUTS\JTAG_POGOPIN_REV_A_Gerber-2025-10-21\Pick Place\Pick Place for JTAG_POGOPIN_REV_A.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/10/25
+Time:       01:27
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"X2","FCI male 2x5","TopLayer","FCI_header_M2x5","9.9500","12.0993","0","FCI male 2x5"
+"X1","FCI male 2x5","TopLayer","FCI_header_M2x5","9.9500","3.7000","0","FCI male 2x5"

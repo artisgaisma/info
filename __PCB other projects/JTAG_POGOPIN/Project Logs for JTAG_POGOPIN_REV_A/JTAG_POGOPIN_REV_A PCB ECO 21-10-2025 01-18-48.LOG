@@ -1,0 +1,53 @@
+Added Component: Designator=X1(FCI header M2x5)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSD level"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "10 pin SMD straight pin header 1.27mm pich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "20021121-00010C4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartFootprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tape width"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tech"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40÷85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X2(FCI header M2x5)
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSD level"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "10 pin SMD straight pin header 1.27mm pich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "20021121-00010C4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartFootprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tape width"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tech"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40÷85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-9
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-5
+Added Pin To Net: NetName=GND Pin=X2-9
+Added Pin To Net: NetName=3.3V Pin=X1-1
+Added Pin To Net: NetName=3.3V Pin=X2-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=JTAG_TCK Pin=X1-4
+Added Pin To Net: NetName=JTAG_TCK Pin=X2-4
+Added Net: Name=JTAG_TCK
+Added Pin To Net: NetName=JTAG_TDI Pin=X1-8
+Added Pin To Net: NetName=JTAG_TDI Pin=X2-8
+Added Net: Name=JTAG_TDI
+Added Pin To Net: NetName=JTAG_TDO Pin=X1-6
+Added Pin To Net: NetName=JTAG_TDO Pin=X2-6
+Added Net: Name=JTAG_TDO
+Added Pin To Net: NetName=JTAG_TMS Pin=X1-2
+Added Pin To Net: NetName=JTAG_TMS Pin=X2-2
+Added Net: Name=JTAG_TMS
+Added Pin To Net: NetName=nRST Pin=X1-10
+Added Pin To Net: NetName=nRST Pin=X2-10
+Added Net: Name=nRST
+Added Class: Name=JTAG_POGOPIN_REV_A
+Change Room Name: Old Name=ICSP-PROG-PIN-1.5-2.54 New Name=JTAG_POGOPIN_REV_A
+Change Room Scope: Old Scope=InComponentClass('ICSP-PROG-PIN-1.5-2.54') New Scope=InComponentClass('JTAG_POGOPIN_REV_A')

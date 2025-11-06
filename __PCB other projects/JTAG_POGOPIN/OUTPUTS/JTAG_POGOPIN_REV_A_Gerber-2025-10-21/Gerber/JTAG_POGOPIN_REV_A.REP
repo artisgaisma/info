@@ -1,0 +1,203 @@
+*************************************************************
+FileName = JTAG_POGOPIN_REV_A.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : JTAG_POGOPIN_REV_A.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : M2
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : JTAG_POGOPIN_REV_A.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : M2
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : BOT
+      File : JTAG_POGOPIN_REV_A.GBL
+
+    Adding Layer      : BOT
+
+    Adding Layer      : M2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : TOP
+      File : JTAG_POGOPIN_REV_A.GTL
+
+    Adding Layer      : TOP
+
+    Adding Layer      : M2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : JTAG_POGOPIN_REV_A.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : M2
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : M2
+      File : JTAG_POGOPIN_REV_A.GM2
+
+    Adding Layer      : M2
+
+    Adding Layer      : M2
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : JTAG_POGOPIN_REV_A.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : M2
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : JTAG_POGOPIN_REV_A.GBS
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : M2
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : JTAG_POGOPIN_REV_A.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : M2
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : JTAG_POGOPIN_REV_A.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : M2
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : JTAG_POGOPIN_REV_A.GD1
+
+    Adding Layer      : M2
+
+    Adding Drill Pair : BOT-TOP
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D13
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : JTAG_POGOPIN_REV_A.GG1
+
+    Adding Layer      : M2
+
+    Adding Drill Pair : BOT-TOP
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D13
+    D23
+*************************************************************
+
