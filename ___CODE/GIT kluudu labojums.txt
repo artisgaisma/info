@@ -1,0 +1,8 @@
+PR - Ja kko safixo - tad resolvo komentāru
+BET - tikai tad, ja pats neko nekomentē.
+Komentārus resolvo tas kurš pēdējais izlasa, nevis tas kurš pēdējais iekomentē. 😉 
+
+
+PR taisa tikai tad ja pušo jaunā brančā
+Ja pušo tajā pašā tad nav jādara nekas. Izņemot tas par komentāriem 😉
+Vnk fix, commit, push, resolve comment
