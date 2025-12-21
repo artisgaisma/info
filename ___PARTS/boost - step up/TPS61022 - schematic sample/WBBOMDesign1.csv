@@ -1,0 +1,7 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+U1,Texas Instruments,TPS61022RWUR,1,0.751,9,
+Cin,Kemet,C0805C106K8PACTU,1,0.03,6.75,Cap: 10 µF  Total Derated Cap: 8.3 µF  VDC: 10 V  ESR: 3 mΩ  Package: 0805  
+Rfbb,Vishay-Dale,CRCW0402100KFKED,1,0.01,3,Resistance: 100 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cout,MuRata,GRM31CR61A476KE15L,2,0.21,10.92,Cap: 47 µF  Total Derated Cap: 41 µF  VDC: 10 V  ESR: 3.71 mΩ  Package: 1206  
+Rfbt,Vishay-Dale,CRCW0402732KFKED,1,0.01,3,Resistance: 732 kΩ  Tolerance: 1.0%  Power: 63 mW  
+L1,Coilcraft,XAL4020-102MEB,1,0.6,28.09,L: 1 µH  DCR: 13.3 mΩ  IDC: 8.7 A  
